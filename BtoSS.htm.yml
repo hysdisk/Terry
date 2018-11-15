@@ -1,0 +1,3008 @@
+---
+- :name: はぐれメタル
+  :system: スラ系
+  :c_rank: '303'
+  :rank: B
+  :size: S
+  :methods:
+  - メタルエリア
+  - ちいさなメダルの景品
+  - すれちがいバトル20勝報酬
+  :parents:
+  - "【特】メタルスライム×メタルスライム"
+- :name: アルゴングレート
+  :system: ドラ系
+  :c_rank: '304'
+  :rank: B
+  :size: S
+  :methods:
+  - しんじつの扉ほむらの扉
+  :parents:
+  - "【位】いばらドラゴン×おにこぞう"
+  - "【特】リザードキッズ×ゾンビ系"
+- :name: ホークブリザード
+  :system: 自然系
+  :c_rank: '305'
+  :rank: B
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【位】ファンキーバード×シュプリンガー"
+  - "【特】ヘルコンドル×ブリザード"
+- :name: コングヘッド
+  :system: 魔獣系
+  :c_rank: '306'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ダンビラムーチョ×ファンキーバード"
+  - "【特】キラーエイプ×ゾンビ系"
+- :name: プロトキラー
+  :system: 物質系
+  :c_rank: '307'
+  :rank: B
+  :size: S
+  :methods:
+  - れっぷうの扉
+  :parents:
+  - "【位】ようがんまじん×ダンビラムーチョ"
+  - "【特】メタルハンター×メタルハンター"
+- :name: バリクナジャ
+  :system: 悪魔系
+  :c_rank: '308'
+  :rank: B
+  :size: G
+  :methods:
+  - れっぷうの扉
+  - ねむりの扉
+  :parents:
+  - "【位】ジェネラルダンテ×ひょうがまじん"
+- :name: しりょうのきし
+  :system: ゾンビ系
+  :c_rank: '309'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ダンスキャロット×ジェネラルダンテ"
+  - "【4体】がいこつ×がいこつ×がいこつ×がいこつ"
+- :name: まどうスライム
+  :system: スラ系
+  :c_rank: '310'
+  :rank: B
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【特】スライムボーグ×ダンスキャロット"
+- :name: ドラゴンソルジャー
+  :system: ドラ系
+  :c_rank: '311'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】アルゴングレート×ソードファントム"
+  - "【特】バトルレックス×物質系"
+- :name: ひくいどり
+  :system: 自然系
+  :c_rank: '312'
+  :rank: B
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】ホークブリザード×アルゴングレート"
+  - "【特】ヘルコンドル×フレイム"
+- :name: かぶとこぞう
+  :system: 自然系
+  :c_rank: '313'
+  :rank: B
+  :size: S
+  :methods:
+  - らいうんの扉
+  :parents:
+  - "【4体】はさみくわがた×はさみくわがた×はさみくわがた×はさみくわがた"
+- :name: ゴートドン
+  :system: 魔獣系
+  :c_rank: '314'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】コングヘッド×ホークブリザード"
+- :name: ミミック
+  :system: 物質系
+  :c_rank: '315'
+  :rank: B
+  :size: S
+  :methods:
+  - 旅の扉内の宝箱
+  :parents:
+  - "【位】プロトキラー×コングヘッド"
+  - "【4体】ひとくい箱×ひとくい箱×ひとくい箱×ひとくい箱"
+- :name: デーモンレスラー
+  :system: 悪魔系
+  :c_rank: '316'
+  :rank: B
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【特】ダークスライム×魔獣系"
+- :name: ボーンナイト
+  :system: ゾンビ系
+  :c_rank: '317'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】エビルドライブ×イノブタマン"
+  - "【特】エビルドライブ×ダンビラムーチョ"
+  - "【特】エビルドライブ×サイコロン"
+- :name: ダークスライム
+  :system: スラ系
+  :c_rank: '318'
+  :rank: B
+  :size: S
+  :methods:
+  - しれんの扉
+  - タマゴから生まれる
+  :parents:
+  - "【位】まどうスライム×バリクナジャ"
+  - "【特】きりさきピエロ×スライム系"
+- :name: スカイドラゴン
+  :system: ドラ系
+  :c_rank: '319'
+  :rank: B
+  :size: M
+  :methods:
+  - おおぞらの扉（ボス）
+  - タマゴから生まれる
+  :parents:
+  - "【位】ドラゴンソルジャー×まどうスライム"
+  - "【4体】スノードラゴン×スノードラゴン×スノードラゴン×スノードラゴン"
+- :name: メダパニシックル
+  :system: 自然系
+  :c_rank: '320'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ひくいどり×ドラゴンソルジャー"
+  - "【特】おおさそり×ダックカイト"
+- :name: バードファイター
+  :system: 魔獣系
+  :c_rank: '321'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ゴートドン×ひくいどり"
+  - "【特】ぼうれいけんし×ヘルコンドル"
+- :name: キラーピッケル
+  :system: 魔獣系
+  :c_rank: '322'
+  :rank: B
+  :size: S
+  :methods:
+  - しんじつの扉
+  :parents:
+  - " "
+- :name: エビルチャリオット
+  :system: 物質系
+  :c_rank: '323'
+  :rank: B
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】とっしんこぞう×とっしんこぞう×とっしんこぞう×とっしんこぞう"
+- :name: メッサーラ
+  :system: 悪魔系
+  :c_rank: '324'
+  :rank: B
+  :size: S
+  :methods:
+  - ほむらの扉
+  :parents:
+  - "【位】バリクナジャ×プロトキラー"
+- :name: デスタランチュラ
+  :system: ゾンビ系
+  :c_rank: '325'
+  :rank: B
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【位】しりょうのきし×バリクナジャ"
+- :name: ルーファ
+  :system: スラ系
+  :c_rank: '326'
+  :rank: B
+  :size: S
+  :methods:
+  - きぼうの扉
+  :parents:
+  - " "
+- :name: シャークマジュ
+  :system: ドラ系
+  :c_rank: '327'
+  :rank: B
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【位】スカイドラゴン×ダークスライム"
+  - "【特】海竜×魔獣系"
+- :name: キラーグース
+  :system: 自然系
+  :c_rank: '328'
+  :rank: B
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】メダパニシックル×スカイドラゴン"
+- :name: ピンクモーモン
+  :system: 魔獣系
+  :c_rank: '329'
+  :rank: B
+  :size: S
+  :methods:
+  - しれんの扉（ボス）他国マスター
+  :parents:
+  - "【位】バードファイター×メダパニシックル"
+  - "【4体】モーモン×モーモン×モーモン×モーモン"
+- :name: ポンポコあにき
+  :system: 魔獣系
+  :c_rank: '330'
+  :rank: B
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: だいあくまの書
+  :system: 物質系
+  :c_rank: '331'
+  :rank: B
+  :size: M
+  :methods:
+  - 配合時、スキルあまり4つで誕生
+  :parents:
+  - " "
+- :name: ギガンテス
+  :system: 悪魔系
+  :c_rank: '332'
+  :rank: B
+  :size: M
+  :methods:
+  - きょじんの扉（ボス）
+  :parents:
+  - "【位】メッサーラ×エビルチャリオット"
+  - "【特】ギガハンド×ボストロール"
+  - "【特】ギガハンド×ビックアイ"
+- :name: エビルスピリッツ
+  :system: ゾンビ系
+  :c_rank: '333'
+  :rank: B
+  :size: S
+  :methods:
+  - とこやみの扉
+  :parents:
+  - "【位】デスタランチュラ×メッサーラ"
+  - "【4体】ゴースト×ゴースト×ゴースト×ゴースト"
+  - "【4体】メラゴースト×メラゴースト×メラゴースト×メラゴースト"
+- :name: ワンダーエッグ
+  :system: スラ系
+  :c_rank: '334'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ダークスライム×デスタランチュラ"
+  - "【特】タマゴロン×ぶちキング"
+- :name: リザードファッツ
+  :system: ドラ系
+  :c_rank: '335'
+  :rank: B
+  :size: S
+  :methods:
+  - だいちの扉
+  :parents:
+  - "【4体】リザードキッズ×リザードキッズ×リザードキッズ×リザードキッズ"
+- :name: ひとくいそう
+  :system: 自然系
+  :c_rank: '336'
+  :rank: B
+  :size: M
+  :methods:
+  - きぼうの扉タマゴから生まれる
+  :parents:
+  - "【位】キラーグース×シャークマジュ"
+  - "【4体】マッドプラント×マッドプラント×マッドプラント×マッドプラント"
+- :name: タイラントワーム
+  :system: 自然系
+  :c_rank: '337'
+  :rank: B
+  :size: G
+  :methods:
+  - しあわせの扉
+  - きょじんの扉
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: ウイングタイガー
+  :system: 魔獣系
+  :c_rank: '338'
+  :rank: B
+  :size: G
+  :methods:
+  - さばきの扉
+  - しんじつの扉
+  :parents:
+  - " "
+- :name: キラーアーマー
+  :system: 物質系
+  :c_rank: '339'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】エビルチャリオット×キラーピッケル"
+  - "【特】さまようよろい×魔獣系"
+- :name: ボストロール
+  :system: 悪魔系
+  :c_rank: '340'
+  :rank: B
+  :size: M
+  :methods:
+  - しんじつの扉
+  :parents:
+  - "【特】コングヘッド×イノブタマン"
+  - "【特】コングヘッド×サイコロン"
+  - "【特】コングヘッド×ダンビラムーチョ"
+- :name: オーガー
+  :system: 悪魔系
+  :c_rank: '341'
+  :rank: B
+  :size: S
+  :methods:
+  - しんじつの扉
+  :parents:
+  - "【位】ギガンテス×ピンクモーモン"
+- :name: ナイトリッチ
+  :system: ゾンビ系
+  :c_rank: '342'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】エビルスピリッツ×ボストロール"
+  - "【特】しりょうのきし×キラーアーマー"
+- :name: 病魔パンデルム
+  :system: ゾンビ系
+  :c_rank: '343'
+  :rank: B
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】くさったしたい×エビルスピリッツ"
+- :name: スライダーヒーロー
+  :system: スラ系
+  :c_rank: '344'
+  :rank: B
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: ヘルダイバー
+  :system: ドラ系
+  :c_rank: '345'
+  :rank: B
+  :size: S
+  :methods:
+  - ぜっかいの扉
+  :parents:
+  - "【位】リザードファッツ×ワンダーエッグ"
+  - "【特】ギャオース×ゾンビ"
+- :name: ダンジョンえび
+  :system: 自然系
+  :c_rank: '346'
+  :rank: B
+  :size: S
+  :methods:
+  - しんじつの扉（ボス）
+  - タマゴから生まれる
+  :parents:
+  - "【位】ひとくいそう×リザードファッツ"
+  - "【特】エビラ×エビラ"
+- :name: グレイトホーン
+  :system: 魔獣系
+  :c_rank: '347'
+  :rank: B
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【位】ピンクモーモン×キラーグース"
+- :name: ガスダンゴ
+  :system: 物質系
+  :c_rank: '348'
+  :rank: B
+  :size: S
+  :methods:
+  - しれんの扉（ボス）
+  :parents:
+  - "【位】キラーアーマー×ひとくいそう"
+- :name: あくまの騎士
+  :system: 悪魔系
+  :c_rank: '349'
+  :rank: B
+  :size: S
+  :methods:
+  - ほろびの扉（ボス）
+  :parents:
+  - "【位】オーガ×キラーアーマー"
+  - "【特】さまようよろい×バトルレックス"
+- :name: ゆうれい船長
+  :system: ゾンビ系
+  :c_rank: '350'
+  :rank: B
+  :size: S
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - "【位】ナイトリッチ×オーガー"
+- :name: じごくのメンドーサ
+  :system: ゾンビ系
+  :c_rank: '351'
+  :rank: B
+  :size: S
+  :methods:
+  - しれんの扉
+  - れっぷうの扉
+  :parents:
+  - "【特】スカイドラゴン×なぞのしんかん"
+- :name: 死神スライダーク
+  :system: スラ系
+  :c_rank: '352'
+  :rank: B
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: ドラゴンライダー
+  :system: ドラ系
+  :c_rank: '353'
+  :rank: B
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】スライムナイト×ドラゴンマッド"
+  - "【特】エビルドライブ×ドラゴンマッド"
+- :name: ヘルホーネット
+  :system: 自然系
+  :c_rank: '354'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ダンジョンえび×ヘルダイバー"
+- :name: パオーム
+  :system: 魔獣系
+  :c_rank: '355'
+  :rank: B
+  :size: M
+  :methods:
+  - しれんの扉
+  :parents:
+  - "【位】グレイトホーン×ダンジョンえび"
+  - "【特】スーパーテンツク×イノブタマン"
+  - "【特】スーパーテンツク×サイコロン"
+  - "【特】スーパーテンツク×ダンビラムーチョ"
+- :name: 炎の戦士
+  :system: 物質系
+  :c_rank: '356'
+  :rank: B
+  :size: S
+  :methods:
+  - しんじつの扉
+  - タマゴから生まれる
+  :parents:
+  - "【位】グレイトホーン×ガスタンゴ"
+  - "【特】じごくのもんばん×ひくいどり"
+- :name: ジャミラス
+  :system: 悪魔系
+  :c_rank: '357'
+  :rank: B
+  :size: S
+  :methods:
+  - しあわせの扉（ボス）他国マスタータマゴから生まれる
+  :parents:
+  - "【特】サイレス×じごくのもんばん"
+- :name: マンドラゴラ
+  :system: ゾンビ系
+  :c_rank: '358'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ゆうれい船長×ガスタンゴ"
+  - "【特】ダンスキャロット×ダンスキャロット"
+- :name: ダークナイト
+  :system: スラ系
+  :c_rank: '359'
+  :rank: B
+  :size: S
+  :methods:
+  - うらみの扉
+  :parents:
+  - "【位】ワンダーエッグ×エビルスピリッツ"
+  - "【特】ダークスライム×スライムナイト"
+  - "【特】ダークスライム×エビルドライブ"
+- :name: スマイルリザード
+  :system: ドラ系
+  :c_rank: '360'
+  :rank: B
+  :size: S
+  :methods:
+  - ねむりの扉
+  :parents:
+  - "【位】ヘルダイバー×ナイトリッチ"
+- :name: デスファレーナ
+  :system: 自然系
+  :c_rank: '361'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ヘルホーネット×ゆうれい船長"
+- :name: 魔王の書
+  :system: 物質系
+  :c_rank: '362'
+  :rank: B
+  :size: G
+  :methods:
+  - 配合時あまりスキル5つで誕生
+  :parents:
+  - " "
+- :name: アークデーモン
+  :system: 悪魔系
+  :c_rank: '363'
+  :rank: B
+  :size: S
+  :methods:
+  - とこやみの扉
+  :parents:
+  - "【位】あくまの騎士×ガスタンゴ"
+  - "【4体】デザートデーモン×デザートデーモン×デザートデーモン×デザートデーモン"
+- :name: デスゴーゴン
+  :system: ゾンビ系
+  :c_rank: '364'
+  :rank: B
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【位】マンドラゴラ×パオーム"
+  - "【特】アイアンブルドー×アイアンブルドー"
+- :name: 黒騎士レオコーン
+  :system: ゾンビ系
+  :c_rank: '365'
+  :rank: B
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ボーンナイト×ソードファントム"
+- :name: 少年レオソード
+  :system: "？？？系"
+  :c_rank: '366'
+  :rank: B
+  :size: S
+  :methods:
+  - すれちがいバトル
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: スライムベホマズン
+  :system: スラ系
+  :c_rank: '367'
+  :rank: B
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ダークナイト×マンドラゴラ"
+  - "【特】キングスライム×キングスライム"
+- :name: トライワインダー
+  :system: ドラ系
+  :c_rank: '368'
+  :rank: B
+  :size: M
+  :methods:
+  - ぜっかいの扉
+  - タマゴから生まれる
+  :parents:
+  - "【特】おおうつぼ×オクトセントリー"
+- :name: よろいムカデ
+  :system: 自然系
+  :c_rank: '369'
+  :rank: B
+  :size: S
+  :methods:
+  - さいはてのとびら他国マスター
+  :parents:
+  - "【特】ダンジョンえび×自然系"
+- :name: ギリメカラ
+  :system: 魔獣系
+  :c_rank: '370'
+  :rank: B
+  :size: M
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【位】パオーム×ヘルホーネット"
+  - "【特】イノブタマン×ゴーレム"
+  - "【特】サイコロン×ゴーレム"
+  - "【特】タンビラムーチョ×ゴーレム"
+- :name: ブリザードマン
+  :system: 物質系
+  :c_rank: '371'
+  :rank: B
+  :size: S
+  :methods:
+  - ぜっかいの扉
+  - タマゴから生まれる
+  :parents:
+  - "【位】炎の戦士×パオーム"
+  - "【特】じごくのもんばん×ホークブリザード"
+- :name: キラーマシン
+  :system: 物質系
+  :c_rank: '372'
+  :rank: B
+  :size: S
+  :methods:
+  - ほむらの扉とこやみの扉
+  :parents:
+  - "【4体】メタルハンター×メタルハンター×メタルハンター×メタルハンター"
+- :name: ランプの魔王
+  :system: 悪魔系
+  :c_rank: '373'
+  :rank: B
+  :size: S
+  :methods:
+  - しれんの扉
+  - さいはての扉
+  :parents:
+  - "【位】アークデーモン×デスファレーナ"
+  - "【特】エビルポット×くもの大王"
+- :name: フラワーゾンビ
+  :system: ゾンビ系
+  :c_rank: '374'
+  :rank: B
+  :size: S
+  :methods:
+  - とこやみの扉
+  :parents:
+  - "【位】デスゴーゴン×ギガンテス"
+  - "【特】わかめおうじ×しりょうのきし"
+  - "【特】わかめおうじ×ソードファントム"
+- :name: スライムファミリー
+  :system: スラ系
+  :c_rank: '375'
+  :rank: A
+  :size: G
+  :methods:
+  - 他国マスター配信
+  :parents:
+  - " "
+- :name: アンドレアル
+  :system: ドラ系
+  :c_rank: '376'
+  :rank: A
+  :size: S
+  :methods:
+  - ねむりの扉他国マスター
+  :parents:
+  - "【位】スマイルリザード×ダークナイト"
+  - "【4体】アルゴングレート×アルゴングレート×リザードファッツ×リザードファッツ"
+- :name: マンイータ－
+  :system: 自然系
+  :c_rank: '377'
+  :rank: A
+  :size: S
+  :methods:
+  - きぼうの扉他国マスター
+  :parents:
+  - "【位】よろいムカデ×デスファレーナ"
+  - "【特】ひとくいそう×ひとくいそう"
+- :name: とうだいタイガー
+  :system: 魔獣系
+  :c_rank: '378'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】ギリメカラ×よろいムカデ"
+  - "【位】とらおとこ×いどまじん"
+- :name: ブオーン
+  :system: 魔獣系
+  :c_rank: '379'
+  :rank: A
+  :size: G
+  :methods:
+  - ちからの扉
+  - 他国マスター
+  :parents:
+  - "【特】プオーン×プオーン"
+- :name: トラップボックス
+  :system: 物質系
+  :c_rank: '380'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【4体】ミミック×ミミック×ひとくいばこ×ひとくいばこ"
+  - "【4体】ミミック×ミミック×メタルドラゴン×メタルドラゴン"
+- :name: ウィングデビル
+  :system: 悪魔系
+  :c_rank: '381'
+  :rank: A
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】ランプの魔王×ブリザードマン"
+  - "【特】ゴールドマン×ヘルビースト"
+- :name: トロルボンバー
+  :system: 悪魔系
+  :c_rank: '382'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ボストロール×ブオーン"
+- :name: ギガミュータント
+  :system: ゾンビ系
+  :c_rank: '383'
+  :rank: A
+  :size: S
+  :methods:
+  - ぜっかいの扉
+  :parents:
+  - "【位】フラワーゾンビ×ランプの魔王"
+  - "【特】ガマキャノン×ガマキャノン"
+- :name: バブルキング
+  :system: スラ系
+  :c_rank: '384'
+  :rank: A
+  :size: S
+  :methods:
+  - さいはての扉きぼうの扉他国マスター
+  :parents:
+  - "【位】スライムベホマズン×デスゴーゴン"
+  - "【4体】バブルスライム×バブルスライム×キングスライム×キングスライム"
+- :name: ずしおうまる
+  :system: ドラ系
+  :c_rank: '385'
+  :rank: A
+  :size: S
+  :methods:
+  - ほむらの扉他国マスタータマゴから生まれる
+  :parents:
+  - "【特】あくまの騎士×シュプリンガー"
+  - "【特】あくまの騎士×ドラゴンライダー"
+  - "【特】あくまの騎士×ギガントヒルズ"
+  - "【特】あくまの騎士×デンタザウルス"
+- :name: バッファロン
+  :system: 魔獣系
+  :c_rank: '386'
+  :rank: A
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】とうだいタイガー×マンイーター"
+  - "【4体】ダークホーン×ダークホーン×ダークホーン×ダークホーン"
+- :name: シールドオーガ
+  :system: 物質系
+  :c_rank: '387'
+  :rank: A
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】メガボーグ×トラップボックス"
+  - "【特】メガボーグ×キラーマシン"
+  - "【特】メガボーグ×プロトキラー"
+- :name: 魔王の使い
+  :system: 悪魔系
+  :c_rank: '388'
+  :rank: A
+  :size: S
+  :methods:
+  - さそいの扉
+  :parents:
+  - "【位】とうだいタイガー×トロルボンバー"
+  - "【特】プチット族×ウィングデビル"
+- :name: デッドマスカー
+  :system: ゾンビ系
+  :c_rank: '389'
+  :rank: A
+  :size: M
+  :methods:
+  - きぼうの扉
+  :parents:
+  - "【位】ギガミュータント×ウイングデビル"
+- :name: スライダーキッズ
+  :system: スラ系
+  :c_rank: '390'
+  :rank: A
+  :size: S
+  :methods:
+  - すれちがいバトル
+  - 30勝と100勝の報酬
+  :parents:
+  - " "
+- :name: ワニバーン
+  :system: ドラ系
+  :c_rank: '391'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】グランドシャーク×シャークマジュ"
+- :name: ウパソルジャー
+  :system: 自然系
+  :c_rank: '392'
+  :rank: A
+  :size: S
+  :methods:
+  - ぜっかいの扉他国マスター
+  :parents:
+  - "【特】くもの大王×ソードファントム"
+- :name: グレンデル
+  :system: 魔獣系
+  :c_rank: '393'
+  :rank: A
+  :size: S
+  :methods:
+  - とこやみの扉他国マスター
+  :parents:
+  - "【位】バッファロン×バブルキング"
+- :name: キマイラロード
+  :system: 魔獣系
+  :c_rank: '394'
+  :rank: A
+  :size: M
+  :methods:
+  - ほむらの扉とこやみの扉
+  :parents:
+  - "【特】メッサーラ×デスゴーゴン"
+- :name: ボル
+  :system: 物質系
+  :c_rank: '395'
+  :rank: A
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】ブリザードマン×ギリメカラ"
+- :name: ブル
+  :system: 物質系
+  :c_rank: '396'
+  :rank: A
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【特】バル×自然系"
+  - "【特】ボル×自然系"
+  - "【特】ベル×自然系"
+- :name: バル
+  :system: 物質系
+  :c_rank: '397'
+  :rank: A
+  :size: S
+  :methods:
+  - だいちの扉
+  :parents:
+  - "【特】ブル×物質系"
+  - "【特】ボル×物質系"
+  - "【特】ベル×物質系"
+- :name: ベル
+  :system: 物質系
+  :c_rank: '398'
+  :rank: A
+  :size: S
+  :methods:
+  - とこやみの扉
+  :parents:
+  - "【特】バル×魔獣系"
+  - "【特】ボル×魔獣系"
+  - "【特】ブル×魔獣系"
+- :name: ライオネック
+  :system: 悪魔系
+  :c_rank: '399'
+  :rank: A
+  :size: S
+  :methods:
+  - らいうんの扉他国マスター
+  :parents:
+  - "【特】シュプリンガー×ウパソルジャー"
+- :name: 皇帝ガナサダイ
+  :system: ゾンビ系
+  :c_rank: '400'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】キングレオ×イブール"
+- :name: ダークキング
+  :system: スラ系
+  :c_rank: '401'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】バブルキング×ギガミュータント"
+- :name: 黒竜丸
+  :system: ドラ系
+  :c_rank: '402'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】アンドレアル×フラワーゾンビ"
+  - "【4体】れんごく天馬×れんごく天馬×れんごく天馬×れんごく天馬"
+- :name: サンダーバード
+  :system: 自然系
+  :c_rank: '403'
+  :rank: A
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【位】ウパソルジャー×ワニバーン"
+  - "【特】ひくいどり×ホークブリザード"
+- :name: ユニコーン
+  :system: 魔獣系
+  :c_rank: '404'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】グレンデル×デッドマスカー"
+  - "【4体】ベホマスライム×ベホマスライム×グリズリー×グリズリー"
+- :name: 木馬の騎士
+  :system: 物質系
+  :c_rank: '405'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】ボル×デッドマスカー"
+  - "【4体】かまっち×かまっち×ボーンナイト×ボーンナイト"
+- :name: コスモファントム
+  :system: 悪魔系
+  :c_rank: '406'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【位】魔王の使い×シールドオーガ"
+  - "【特】ダンビラムーチョ×ソードファントム"
+- :name: がいこつけんし
+  :system: ゾンビ系
+  :c_rank: '407'
+  :rank: A
+  :size: S
+  :methods:
+  - きょじんの扉
+  :parents:
+  - "【位】ぼうれいけんし×ピサロのてさき"
+- :name: イデアドラゴン
+  :system: ドラ系
+  :c_rank: '408'
+  :rank: A
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】黒竜丸×魔教師エルシオン"
+- :name: ヘラクレイザー
+  :system: 自然系
+  :c_rank: '409'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】かぶとこぞう×メタルキング"
+  - "【4体】かぶとこぞう×かぶとこぞう×かぶとこぞう×かぶとこぞう"
+- :name: マポレーナ
+  :system: 魔獣系
+  :c_rank: '410'
+  :rank: A
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: タイムマスター
+  :system: 悪魔系
+  :c_rank: '411'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【4体】なぞのしんかん×なぞのしんかん×なげきのぼうれい×なげきのぼうれい"
+- :name: セバスチャン
+  :system: ゾンビ系
+  :c_rank: '412'
+  :rank: A
+  :size: S
+  :methods:
+  - 4人の魔戦士を仲間に入れた後、話しかける
+  :parents:
+  - " "
+- :name: カンダタ
+  :system: "？？？系"
+  :c_rank: '413'
+  :rank: A
+  :size: S
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - " "
+- :name: アサシンブロス
+  :system: ドラ系
+  :c_rank: '414'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: プチットガールズ
+  :system: 悪魔系
+  :c_rank: '415'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】プチット族×ローズダンス"
+  - "【特】プチット族×じごくのマドンナ"
+- :name: ダブルイーター
+  :system: 悪魔系
+  :c_rank: '416'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】アサシンブロス×悪魔系"
+- :name: デスソシスト
+  :system: ゾンビ系
+  :c_rank: '417'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - " "
+- :name: メタルカイザー
+  :system: スラ系
+  :c_rank: '418'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【4体】メタルライダー×メタルライダー×スライムベホマズン×スライムベホマズン"
+  - "【4体】メタルライダー×メタルライダー×ダークキング×ダークキング"
+- :name: オーシャンクロー
+  :system: ドラ系
+  :c_rank: '419'
+  :rank: A
+  :size: S
+  :methods:
+  - ねむりの扉
+  :parents:
+  - "【特】ワニバーン×かぶとこぞう"
+  - "【特】ワニバーン×きりさきピエロ"
+  - "【特】ワニバーン×かくとうパンサー"
+- :name: モヒカント
+  :system: 魔獣系
+  :c_rank: '420'
+  :rank: A
+  :size: S
+  :methods:
+  - だいちの扉タマゴから生まれる
+  :parents:
+  - "【特】ギリメカラ×ずしおうまる"
+  - "【特】ギリメカラ×キラーパンサー"
+  - "【特】ギリメカラ×スライムファング"
+- :name: グラコス
+  :system: 悪魔系
+  :c_rank: '421'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ベリアル×オクトセントリー"
+  - "【特】ベリアル×マーマン"
+- :name: なげきのぼうれい
+  :system: ゾンビ系
+  :c_rank: '422'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】ナイトリッチ×病魔パンデルム"
+  - "【特】ナイトリッチ×じごくのメンドーサ"
+  - "【特】ナイトリッチ×黒騎士レオコーン"
+  - "【特】ナイトリッチ×フラワーゾンビ"
+- :name: 死神きぞく
+  :system: ゾンビ系
+  :c_rank: '423'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ボーンナイト×ボーンナイト"
+  - "【特】木馬の騎士×木馬の騎士"
+- :name: グレイトドラゴン
+  :system: ドラ系
+  :c_rank: '424'
+  :rank: A
+  :size: S
+  :methods:
+  - ほむらの扉他国マスター
+  :parents:
+  - "【特】アンドレアル×ギリメカラ"
+  - "【特】アンドレアル×デンタザウルス"
+  - "【特】アンドレアル×ずしおうまる"
+  - "【特】アンドレアル×キマイラロード"
+- :name: ローズダンス
+  :system: 自然系
+  :c_rank: '425'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - " "
+- :name: ゴンズ
+  :system: 魔獣系
+  :c_rank: '426'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】バッファロン×シュプリンガー"
+  - "【特】グレンデル×グレンデル"
+- :name: うごくせきぞう
+  :system: 物質系
+  :c_rank: '427'
+  :rank: A
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【4体】ゴーレム×ゴーレム×ゴーレム×ゴーレム"
+- :name: じごくのマドンナ
+  :system: 悪魔系
+  :c_rank: '428'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - " "
+- :name: ドラゴンコープス
+  :system: ゾンビ系
+  :c_rank: '429'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】病魔パンデルム×グレイトドラゴン"
+  - "【特】病魔パンデルム×アンドレアル"
+- :name: スライダーガール
+  :system: スラ系
+  :c_rank: '430'
+  :rank: A
+  :size: M
+  :methods:
+  - すれちがいバトル
+  - 50勝と90勝の報酬
+  :parents:
+  - " "
+- :name: ガルーダ
+  :system: 自然系
+  :c_rank: '431'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】ワニバーン×ヘルコンドル"
+- :name: アンクルホーン
+  :system: 悪魔系
+  :c_rank: '432'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】バッファロンxダークホーン"
+  - "【特】バッファロンxメッサーラ"
+- :name: ほうらい大王
+  :system: 悪魔系
+  :c_rank: '433'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【特】ランプの魔王×なぞのしんかん"
+  - "【特】ランプの魔王×アークデーモン"
+  - "【特】ランプの魔王×ボストロール"
+- :name: ゲモン
+  :system: 悪魔系
+  :c_rank: '434'
+  :rank: A
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】ジャミラス×バズズ"
+  - "【特】ジャミラス×アトラス"
+  - "【特】ジャミラス×ベリアル"
+- :name: ナイトキング
+  :system: ゾンビ系
+  :c_rank: '435'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】ナイトリッチ×ナイトリッチ"
+- :name: 妖女イシュダル
+  :system: 悪魔系
+  :c_rank: '436'
+  :rank: A
+  :size: M
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】マンドラゴラ×プチットガールズ"
+  - "【特】マンドラゴラ×ローズダンス"
+  - "【特】マンドラゴラ×じごくのマドンナ"
+- :name: ピサロナイト
+  :system: ゾンビ系
+  :c_rank: '437'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】キラーアーマー×死神きぞく"
+  - "【特】キラーアーマー×オーシャンクロー"
+- :name: スライムジェネラル
+  :system: スラ系
+  :c_rank: '438'
+  :rank: A
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】メタルカイザー×メタルカイザー"
+- :name: メカバーン
+  :system: ドラ系
+  :c_rank: '439'
+  :rank: A
+  :size: S
+  :methods:
+  - きぼうの扉
+  :parents:
+  - "【特】メタルドラゴン×グレイトドラゴン"
+  - "【特】メタルドラゴン×アンドレアル"
+- :name: ロック鳥
+  :system: 自然系
+  :c_rank: '440'
+  :rank: A
+  :size: S
+  :methods:
+  - とこやみの扉タマゴから生まれる
+  - ちいさなメダル75枚の報酬
+  :parents:
+  - "【特】レティス×ギガントドラゴン"
+  - "【特】レティス×ブラックドラゴン"
+  - "【特】カプリゴン×ギガントドラゴン"
+  - "【特】カプリゴン×ブラックドラゴン"
+- :name: ドン・モグーラ
+  :system: 魔獣系
+  :c_rank: '441'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】いたずらもぐら×いたずらもぐら×おにこんぼう×おにこんぼう"
+- :name: デュラン
+  :system: 悪魔系
+  :c_rank: '442'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】炎の戦士×ブリザードマン"
+- :name: ベリアル
+  :system: 悪魔系
+  :c_rank: '443'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】アークデーモン×グレイトドラゴン"
+  - "【特】アークデーモン×ゴールデンゴーレム"
+  - "【4体】アークデーモン×アークデーモン×アークデーモン×アークデーモン"
+- :name: ヒヒュルデの使い
+  :system: ゾンビ系
+  :c_rank: '444'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】コングヘッド×ポンポコアニキ"
+  - "【特】キラーエイプ×ポンポコアニキ"
+- :name: デュラハーン
+  :system: ゾンビ系
+  :c_rank: '445'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】死神きぞく×ナイトキング"
+  - "【特】死神きぞく×暗黒の魔神"
+  - "【特】死神きぞく×なげきのぼうれい"
+- :name: ジャミ
+  :system: 魔獣系
+  :c_rank: '446'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】死神きぞく×シュプリンガー"
+- :name: マリンデュエル
+  :system: 魔獣系
+  :c_rank: '447'
+  :rank: A
+  :size: M
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - " "
+- :name: どぐう戦士
+  :system: 物質系
+  :c_rank: '448'
+  :rank: A
+  :size: M
+  :methods:
+  - とこやみの扉
+  :parents:
+  - "【4体】ミステリードール×ミステリードール×ミステリードール×ミステリードール"
+- :name: バズズ
+  :system: 悪魔系
+  :c_rank: '449'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】シルバーデビル×スカルスパイダー"
+  - "【特】シルバーデビル×アンドレアル"
+  - "【4体】シルバーデビル×シルバーデビル×シルバーデビル×シルバーデビル"
+- :name: スカルスパイダー
+  :system: ゾンビ系
+  :c_rank: '450'
+  :rank: A
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】タイラントワーム×ローズバトラー"
+  - "【特】タイラントワーム×ナイトキング"
+  - "【特】タイラントワーム×なげきのぼうれい"
+- :name: メタルキング
+  :system: スラ系
+  :c_rank: '451'
+  :rank: A
+  :size: S
+  :methods:
+  - きぼうの扉
+  :parents:
+  - "【4体】はぐれメタル×はぐれメタル×はぐれメタル×はぐれメタル"
+- :name: イブール
+  :system: ドラ系
+  :c_rank: '452'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】なげきのぼうれい×グレイトドラゴン"
+  - "【特】なげきのぼうれい×アンドレアル"
+- :name: タウラス
+  :system: 魔獣系
+  :c_rank: '453'
+  :rank: A
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】バッファロン×ギガンテス"
+- :name: カプリゴン
+  :system: ゾンビ系
+  :c_rank: '454'
+  :rank: A
+  :size: M
+  :methods:
+  - らいうんの扉
+  :parents:
+  - "【特】ヘルバトラー×ガルーダ"
+- :name: ゲマ
+  :system: ゾンビ系
+  :c_rank: '455'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】イデアドラゴン×シュプリンガー"
+- :name: ヘルクラウド
+  :system: 物質系
+  :c_rank: '456'
+  :rank: A
+  :size: G
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: 大王イカ
+  :system: 自然系
+  :c_rank: '457'
+  :rank: A
+  :size: M
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】ワニバーン×ギガミュータント"
+  - "【特】ワニバーン×グラコス"
+- :name: ゾーマズデビル
+  :system: "？？？系"
+  :c_rank: '458'
+  :rank: A
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: プチターク
+  :system: "？？？系"
+  :c_rank: '459'
+  :rank: A
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: ミルドラース
+  :system: "？？？系"
+  :c_rank: '460'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】黒龍丸×がいこつけんし"
+- :name: デスタムーア
+  :system: "？？？系"
+  :c_rank: '461'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】アクバー×サンダーバード"
+- :name: オルゴ・デミーラ
+  :system: "？？？系"
+  :c_rank: '462'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】コスモファントム×ユニコーン"
+- :name: スペディオ
+  :system: "？？？系"
+  :c_rank: '463'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】神獣モンスター×Aランク以下の自然系"
+- :name: ガルハート
+  :system: "？？？系"
+  :c_rank: '464'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】神獣モンスター×Aランク以下の悪魔系"
+- :name: グラブゾン
+  :system: "？？？系"
+  :c_rank: '465'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】神獣モンスター×Aランク以下の物質系"
+- :name: ディアノーグ
+  :system: "？？？系"
+  :c_rank: '466'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】神獣モンスター×Aランク以下の魔獣系"
+- :name: 長老ピピット
+  :system: "？？？系"
+  :c_rank: '467'
+  :rank: A
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】グランスライム×ティコ"
+  - "【特】グランスライム×ククリ"
+  - "【特】かみさま×ティコ"
+  - "【特】かみさま×ククリ"
+- :name: ゴレオン将軍
+  :system: 自然系
+  :c_rank: '468'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】モヒカント×ゴンズ"
+- :name: ゲルニック将軍
+  :system: 悪魔系
+  :c_rank: '469'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ジャミ×ジャミラス"
+- :name: ギュメイ将軍
+  :system: 魔獣系
+  :c_rank: '470'
+  :rank: A
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】キラーパンサー×ゲマ"
+- :name: 勇者スラリンガル
+  :system: スラ系
+  :c_rank: '471'
+  :rank: S
+  :size: G
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: ブラックドラゴン
+  :system: ドラ系
+  :c_rank: '472'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】グレイトドラゴン×死神きぞく"
+  - "【特】グレイトドラゴン×ゲモン"
+- :name: ぬしさま
+  :system: 自然系
+  :c_rank: '473'
+  :rank: S
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】海竜×タイラントワーム"
+  - "【特】海竜×ウイングタイガー"
+- :name: 怪力軍曹イボイノス
+  :system: 自然系
+  :c_rank: '474'
+  :rank: S
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】バルバルー×ゴレオン将軍"
+- :name: 邪眼皇帝アウルート
+  :system: 悪魔系
+  :c_rank: '475'
+  :rank: S
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】カカロン×ゲルニック将軍"
+- :name: 魔剣神レパルド
+  :system: 魔獣系
+  :c_rank: '476'
+  :rank: S
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】クシャラミ×ギュメイ将軍"
+- :name: キラーマシン2
+  :system: 物質系
+  :c_rank: '477'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】ゴールデンゴーレム×ゴールデンゴーレム×キラーマシン×キラーマシン"
+- :name: アトラス
+  :system: 悪魔系
+  :c_rank: '478'
+  :rank: S
+  :size: M
+  :methods:
+  - とこやみの扉
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【特】ギガンテス×アンクルホーン"
+  - "【特】ギガンテス×ガルーダ"
+  - "【特】ギガンテス×ダブルイーター"
+  - "【4体】ギガンテス×ギガンテス×ギガンテス×ギガンテス"
+- :name: スライダークロボ
+  :system: スラ系
+  :c_rank: '479'
+  :rank: S
+  :size: G
+  :methods:
+  - すれちがいバトル（110勝の報酬）他国マスター
+  :parents:
+  - "【4体】キラーマシン2×スライダーガール×スライダヒーロー×死神スライダーク"
+- :name: ギガントドラゴン
+  :system: ドラ系
+  :c_rank: '480'
+  :rank: S
+  :size: S
+  :methods:
+  - とこやみの扉タマゴから生まれる
+  :parents:
+  - "【特】ギガントヒルズ×バズズ"
+  - "【特】ギガントヒルズ×アトラス"
+  - "【特】ギガントヒルズ×ベリアル"
+- :name: レティス
+  :system: 自然系
+  :c_rank: '481'
+  :rank: S
+  :size: S
+  :methods:
+  - ほろびの扉らいうんの扉
+  :parents:
+  - " "
+- :name: キングレオ
+  :system: 魔獣系
+  :c_rank: '482'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】モヒカント×バッファロン"
+  - "【特】モヒカント×ユニコーン"
+  - "【特】パオーム×パオーム"
+- :name: ダーククリスタル
+  :system: 物質系
+  :c_rank: '483'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】メカバーン×大王イカ"
+  - "【特】メカバーン×マリンデュエル"
+  - "【特】メカバーン×ロック鳥"
+- :name: やまたのおろち
+  :system: ドラ系
+  :c_rank: '484'
+  :rank: S
+  :size: G
+  :methods:
+  - さいはての扉（ボス）他国マスタータマゴから生まれる
+  :parents:
+  - "【4体】トライワインダー×トライワインダー×セルゲイナス×セルゲイナス"
+- :name: ローズバトラー
+  :system: 自然系
+  :c_rank: '485'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】キングレオ×マンイーター"
+  - "【特】トロルボンバー×マンイーター"
+- :name: おにこんぼう
+  :system: 魔獣系
+  :c_rank: '486'
+  :rank: S
+  :size: S
+  :methods:
+  - とこやみの扉タマゴから生まれる
+  :parents:
+  - "【特】ボストロール×バズズ"
+  - "【特】ボストロール×リザードファッツ"
+  - "【特】ボストロール×ギガントヒルズ"
+- :name: ゴールデンゴーレム
+  :system: 物質系
+  :c_rank: '487'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【4体】ようがんまじん×ひょうがまじん×ゴーレム×ゴールドマン"
+  - "【4体】ようがんまじん×ようがんまじん×ひょうがまじん×ひょうがまじん"
+  - "【4体】ゴーレム×ゴーレム×ゴールドマン×ゴールドマン"
+- :name: アクバー
+  :system: 悪魔系
+  :c_rank: '488'
+  :rank: S
+  :size: S
+  :methods:
+  - さばきの扉（ボス）
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【特】スライムジェネラル×ドラゴンコープス"
+- :name: ワイトキング
+  :system: ゾンビ系
+  :c_rank: '489'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】なげきのぼうれい×キングスライム"
+  - "【特】なげきのぼうれい×バブルキング"
+  - "【特】デスソシスト×キングスライム"
+  - "【特】デスソシスト×バブルキング"
+- :name: スラ忍シルバー
+  :system: スラ系
+  :c_rank: '490'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】スラ忍パープル×スラ忍イエロー"
+  - "【特】スラ忍パープル×スラ忍ブラウン"
+  - "【特】スラ忍パープル×スラ忍ブラック"
+  - "【特】スラ忍パープル×スラ忍ピンク"
+- :name: セルゲイナス
+  :system: ドラ系
+  :c_rank: '491'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】ゴールデンゴーレム×ブラックドラゴン"
+  - "【特】ゴールデンゴーレム×ヘラクレイザー"
+- :name: ホーンビートル
+  :system: 自然系
+  :c_rank: '492'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】ヘラクレイザー×シールドオーガ"
+  - "【特】ヘラクレイザー×うごくせきぞう"
+  - "【特】ヘラクレイザー×スライムジェネラル"
+  - "【4体】ヘラクレイザー×ヘラクレイザー×ヘラクレイザー×ヘラクレイザー"
+- :name: にじくじゃく
+  :system: 魔獣系
+  :c_rank: '493'
+  :rank: S
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】ガルーダ×ティコ"
+  - "【特】ガルーダ×ククリ"
+  - "【特】ガルーダ×長老ピピット"
+  - "【4体】ひくいどり×ひくいどり×ホークブリザード×ホークブリザード"
+- :name: デスマシーン
+  :system: 物質系
+  :c_rank: '494'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ピサロナイト×あくまの騎士"
+  - "【4体】ボストロール×ボストロール×こうてつまじん×こうてつまじん"
+- :name: 死神の騎士
+  :system: 悪魔系
+  :c_rank: '495'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ピサロナイト×ピサロナイト"
+- :name: バラモスゾンビ
+  :system: ゾンビ系
+  :c_rank: '496'
+  :rank: S
+  :size: G
+  :methods:
+  - とこやみの扉他国マスター
+  :parents:
+  - "【特】バラモス×ゾンビ系"
+- :name: スラ忍ゴールド
+  :system: スラ系
+  :c_rank: '497'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】スラ忍パープル×スラ忍レッド"
+  - "【特】スラ忍パープル×スラ忍グリーン"
+  - "【特】スラ忍パープル×スラ忍ブルー"
+  - "【特】スラ忍パープル×スラ忍オレンジ"
+- :name: コアトル
+  :system: ドラ系
+  :c_rank: '498'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】デスソシスト×黒竜丸"
+- :name: ガマデウス
+  :system: 魔獣系
+  :c_rank: '499'
+  :rank: S
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】ほうらい大王×ギガミュータント"
+  - "【特】大王イカ×ギガミュータント"
+  - "【特】ぬしさま×ギガミュータント"
+- :name: ドラゴンマシン
+  :system: 物質系
+  :c_rank: '500'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】コアトル×デスマシーン"
+- :name: エビルプリースト
+  :system: 悪魔系
+  :c_rank: '501'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】イブール×ほうらい大王"
+  - "【特】イブール×どぐう戦士"
+- :name: 名をうばわれし王
+  :system: ゾンビ系
+  :c_rank: '502'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【特】ドメディ×皇帝ガナサダイ"
+  - "【特】黒騎士レオコーン×妖女イシュダル"
+- :name: キャット・リベリオ
+  :system: "？？？系"
+  :c_rank: '503'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - " "
+- :name: スライムマデュラ
+  :system: スラ系
+  :c_rank: '504'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【4体】もりもりベス×もりもりベス×メタルキング×メタルキング"
+- :name: はくりゅうおう
+  :system: ドラ系
+  :c_rank: '505'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】メカバーン×ギガントドラゴン"
+  - "【特】メカバーン×バラモスゾンビ"
+- :name: さそりアーマー
+  :system: 自然系
+  :c_rank: '506'
+  :rank: S
+  :size: M
+  :methods:
+  - とこやみの扉他国マスタータマゴから生まれる
+  :parents:
+  - "【特】ピサロナイト×サンダーバード"
+  - "【特】デュアラハン×サンダーバード"
+  - "【特】ホーンビートル×サンダーバード"
+- :name: バルザック
+  :system: 魔獣系
+  :c_rank: '507'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ギガンテス×ベリアル"
+  - "【特】ギガンテス×アルゴングレート"
+  - "【特】ギガンテス×ギガントヒルズ"
+- :name: キラーマシン3
+  :system: 物質系
+  :c_rank: '508'
+  :rank: S
+  :size: G
+  :methods:
+  - 勝ち抜きバトル100勝の報酬
+  :parents:
+  - " "
+- :name: タイタニス
+  :system: 悪魔系
+  :c_rank: '509'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】アンクルホーン×アトラス"
+  - "【特】アンクルホーン×ぬしさま"
+- :name: ゆうれい船
+  :system: ゾンビ系
+  :c_rank: '510'
+  :rank: S
+  :size: G
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - " "
+- :name: キングモーモン
+  :system: 魔獣系
+  :c_rank: '511'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】ピンクモーモン×マポレーナ×ティコ×ククリ"
+- :name: バベルボブル
+  :system: 物質系
+  :c_rank: '512'
+  :rank: S
+  :size: S
+  :methods:
+  - タマゴから生まれる他国マスター
+  :parents:
+  - "【4体】バル×ベル×ボル×ブル"
+- :name: ヘルバトラー
+  :system: 悪魔系
+  :c_rank: '513'
+  :rank: S
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】アンクルホーン×アンクルホーン"
+  - "【特】アンクルホーン×オーシャンクロー"
+  - "【特】アンクルホーン×ドラゴンコープス"
+- :name: りゅうおう
+  :system: ドラ系
+  :c_rank: '514'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】グレイトドラゴン×魔王の使い"
+  - "【特】コアトル×魔王の使い"
+- :name: ハーゴン
+  :system: "？？？系"
+  :c_rank: '515'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】デュラン×スカルスパイダー"
+  - "【特】デュラン×ワイトキング"
+- :name: バラモス
+  :system: "？？？系"
+  :c_rank: '516'
+  :rank: S
+  :size: S
+  :methods:
+  - タマゴから生まれる他国マスター
+  :parents:
+  - "【特】デンタザウルス×ガマデウス"
+  - "【特】デンタザウルス×オセアーノン"
+- :name: ムドー
+  :system: "？？？系"
+  :c_rank: '517'
+  :rank: S
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】ブオーン×おにこんぼう"
+  - "【特】ブオーン×ガマデウス"
+- :name: ドーク
+  :system: "？？？系"
+  :c_rank: '518'
+  :rank: S
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】アクバー×ムドー"
+  - "【特】アクバー×カンダタおやぶん"
+  - "【特】アクバー×カンダタワイフ"
+  - "【特】アクバー×バルザック"
+- :name: 魔王デスタムーア
+  :system: "？？？系"
+  :c_rank: '519'
+  :rank: S
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】デスタムーア×シールドオーガ"
+  - "【特】デスタムーア×タイムマスター"
+  - "【特】デスタムーア×死神の騎士"
+- :name: フォロボシータ
+  :system: 悪魔系
+  :c_rank: '520'
+  :rank: S
+  :size: G
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: シドー
+  :system: "？？？系"
+  :c_rank: '521'
+  :rank: S
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】ハーゴン×オセアーノン"
+  - "【特】ハーゴン×魔王の使い"
+  - "【特】ハーゴン×がいこつけんし"
+- :name: フォロボス
+  :system: "？？？系"
+  :c_rank: '522'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ライオネック×タウラス"
+  - "【特】ライオネック×カプリゴン"
+  - "【特】ロック鳥×タウラス"
+  - "【特】ロック鳥×カプリゴン"
+- :name: キャプテン・クロウ
+  :system: ゾンビ系
+  :c_rank: '523'
+  :rank: S
+  :size: S
+  :methods:
+  - うらみの扉（ボス）
+  - 配信
+  :parents:
+  - " "
+- :name: グランスライム
+  :system: スラ系
+  :c_rank: '524'
+  :rank: S
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】スライムベホマズン×スライムベホマズン×メタルカイザー×メタルカイザー"
+- :name: スラキャンサー
+  :system: スラ系
+  :c_rank: '525'
+  :rank: S
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【4体】ゴールデンスライム×ゴールデンスライム×ダーククラブ×ダーククラブ"
+- :name: オセアーノン
+  :system: 自然系
+  :c_rank: '526'
+  :rank: S
+  :size: G
+  :methods:
+  - よろこびの扉
+  - さいはての扉
+  :parents:
+  - "【4体】プチアーノン×プチアーノン×大王イカ×大王イカ"
+- :name: ドルマゲス
+  :system: "？？？系"
+  :c_rank: '527'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】はくりゅうおう×フォロボス"
+  - "【特】はくりゅうおう×フォロボシータ"
+  - "【特】はくりゅうおう×キャプテン・クロウ"
+- :name: キラーマジンガ
+  :system: 物質系
+  :c_rank: '528'
+  :rank: S
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ドラゴンマシン×キラーマシン3"
+- :name: ゴールデンスライム
+  :system: スラ系
+  :c_rank: '529'
+  :rank: S
+  :size: M
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【4体】グランスライム×グランスライム×ゴールデンゴーレム×ゴールデンゴーレム"
+- :name: 暗黒皇帝ガナサダイ
+  :system: ゾンビ系
+  :c_rank: '530'
+  :rank: S
+  :size: G
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】ギュメイ将軍×ゴレオン将軍×ゲルニック将軍×皇帝ガナサダイ"
+- :name: 暗黒の魔神
+  :system: 物質系
+  :c_rank: '531'
+  :rank: S
+  :size: G
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】バベルボブル×うごくせきぞう"
+  - "【特】バベルボブル×ゴールドマン"
+  - "【特】ヘルクラウド×うごくせきぞう"
+  - "【特】ヘルクラウド×ゴールドマン"
+- :name: カンダタワイフ
+  :system: "？？？系"
+  :c_rank: '532'
+  :rank: S
+  :size: M
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - " "
+- :name: カンダタおやぶん
+  :system: "？？？系"
+  :c_rank: '533'
+  :rank: S
+  :size: S
+  :methods:
+  - すれちがいバトル
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: エッグラ＆チキーラ
+  :system: "？？？系"
+  :c_rank: '534'
+  :rank: S
+  :size: M
+  :methods:
+  - 最強Vジャンプフェスタ配信
+  :parents:
+  - "-"
+- :name: カカロン
+  :system: "？？？系"
+  :c_rank: '535'
+  :rank: S
+  :size: M
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - " "
+- :name: クシャラミ
+  :system: "？？？系"
+  :c_rank: '536'
+  :rank: S
+  :size: M
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - " "
+- :name: バルバルー
+  :system: "？？？系"
+  :c_rank: '537'
+  :rank: S
+  :size: M
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - " "
+- :name: ドメディ
+  :system: "？？？系"
+  :c_rank: '538'
+  :rank: S
+  :size: M
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - " "
+- :name: キングスペーディオ
+  :system: "？？？系"
+  :c_rank: '539'
+  :rank: SS
+  :size: S
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - "【特】神獣モンスター×Sランク以上の自然系"
+- :name: クインガルハート
+  :system: "？？？系"
+  :c_rank: '540'
+  :rank: SS
+  :size: S
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - "【特】神獣モンスター×Sランク以上の悪魔系"
+- :name: グラブゾンジャック
+  :system: "？？？系"
+  :c_rank: '541'
+  :rank: SS
+  :size: S
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - "【特】神獣モンスター×Sランク以上の物質系"
+- :name: ディアノーグエース
+  :system: "？？？系"
+  :c_rank: '542'
+  :rank: SS
+  :size: S
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - "【特】神獣モンスター×Sランク以上の魔獣系"
+- :name: スーパーキラーマシン
+  :system: 物質系
+  :c_rank: '543'
+  :rank: SS
+  :size: M
+  :methods:
+  - きぼうの扉他国マスタータマゴから生まれる
+  :parents:
+  - "【特】キラーマシン2×暗黒の魔神"
+  - "【特】ダーククリスタル×暗黒の魔神"
+- :name: カンダタレディース
+  :system: "？？？系"
+  :c_rank: '544'
+  :rank: SS
+  :size: G
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - " "
+- :name: スラ・ブラスター
+  :system: スラ系
+  :c_rank: '545'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】スライダークロボ×勇者スラリンガル"
+  - "【特】スライダークロボ×エリスグール"
+- :name: ジェノダーク
+  :system: "？？？系"
+  :c_rank: '546'
+  :rank: SS
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】シドー×タウラス"
+- :name: メタルスコーピオン
+  :system: 自然系
+  :c_rank: '547'
+  :rank: SS
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】さそりアーマー×メタルカイザー"
+  - "【特】さそりアーマー×メタルキング"
+- :name: レオパルド
+  :system: 魔獣系
+  :c_rank: '548'
+  :rank: SS
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】ドルマゲス×ワンダーフール"
+  - "【特】ドルマゲス×ケルベロス"
+- :name: ギガデーモン
+  :system: 魔獣系
+  :c_rank: '549'
+  :rank: SS
+  :size: G
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】暗黒の魔神×アトラス"
+  - "【特】暗黒の魔神×はくりゅうおう"
+  - "【特】暗黒の魔神×ギガントドラゴン"
+- :name: キングヒドラ
+  :system: ドラ系
+  :c_rank: '550'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】やまたのおろち×魔壷インヘーラー"
+- :name: デスピサロ
+  :system: "？？？系"
+  :c_rank: '551'
+  :rank: SS
+  :size: M
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【4体】エビルプリースト×ギガデーモン×ヘルバトラー×アンドレアル"
+- :name: 魔王ミルドラース
+  :system: "？？？系"
+  :c_rank: '552'
+  :rank: SS
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】バラモス×ミルドラース"
+- :name: 竜王
+  :system: ドラ系
+  :c_rank: '553'
+  :rank: SS
+  :size: M
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】りゅうおう×はくりゅうおう"
+- :name: スラリン船
+  :system: スラ系
+  :c_rank: '554'
+  :rank: SS
+  :size: G
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - " "
+- :name: スライバ船
+  :system: スラ系
+  :c_rank: '555'
+  :rank: SS
+  :size: G
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - " "
+- :name: 魔王ジェイム
+  :system: ドラ系
+  :c_rank: '556'
+  :rank: SS
+  :size: G
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】キャプテン・クロウ×ダークドレアム"
+- :name: トロデ
+  :system: "？？？系"
+  :c_rank: '557'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【4体】ドーク×ドン・モグーラ×わたぼう×キングモーモン"
+  - "【4体】ドーク×ドン・モグーラ×ワルぼう×キングモーモン"
+- :name: 魔壷インヘーラー
+  :system: 物質系
+  :c_rank: '558'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】トロデ×ガーディス"
+- :name: 魔戦車ダビド
+  :system: 物質系
+  :c_rank: '559'
+  :rank: SS
+  :size: G
+  :methods:
+  - 勝ち抜きバトル110勝報酬
+  - にじのタマゴから誕生
+  :parents:
+  - " "
+- :name: 魔戦士ホゲイラ
+  :system: 自然系
+  :c_rank: '560'
+  :rank: SS
+  :size: S
+  :methods:
+  - 裏ボス撃破後
+  - らいうんの扉
+  :parents:
+  - "【特】怪力軍曹イボイノス×魔戦車ダビド"
+- :name: 魔戦士ヴェーラ
+  :system: 魔獣系
+  :c_rank: '561'
+  :rank: SS
+  :size: S
+  :methods:
+  - 裏ボス撃破後
+  - だいちの扉
+  :parents:
+  - "【特】魔剣神レパルド×魔戦車ダビド"
+- :name: 魔戦士アルゴ
+  :system: 悪魔系
+  :c_rank: '562'
+  :rank: SS
+  :size: S
+  :methods:
+  - 裏ボス撃破後
+  - ぜっかいの扉
+  :parents:
+  - "【特】邪眼皇帝アウルート×魔戦車ダビド"
+- :name: 魔戦士サイフォン
+  :system: ゾンビ系
+  :c_rank: '563'
+  :rank: SS
+  :size: S
+  :methods:
+  - 裏ボス撃破後
+  - れっぷうの扉
+  :parents:
+  - "【特】セバスチャン×魔戦士ダビド"
+- :name: 魔戦士ルギウス
+  :system: ドラ系
+  :c_rank: '564'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【4体】魔戦士サイフォン×"
+  - 魔戦士アルゴ×魔戦士ヴェーラ×魔戦士ホゲイラ
+- :name: 魔戦士メイザー
+  :system: "？？？系"
+  :c_rank: '565'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】魔戦士ルギウス×名をうばわれし王"
+- :name: 竜皇帝バルグディス
+  :system: ドラ系
+  :c_rank: '566'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】魔戦士メイザー×キングヒドラ"
+- :name: ゴールドマジンガ
+  :system: 物質系
+  :c_rank: '567'
+  :rank: SS
+  :size: M
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: ワルぼう
+  :system: "？？？系"
+  :c_rank: '568'
+  :rank: SS
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: ガルマッゾ
+  :system: ゾンビ系
+  :c_rank: '569'
+  :rank: SS
+  :size: M
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】スライムマデュラ×ムドー"
+  - "【特】スライムマデュラ×カンダタワイフ"
+  - "【特】スライムマデュラ×カンダタおやぶん"
+- :name: 大魔王ゾーマ
+  :system: "？？？系"
+  :c_rank: '570'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】シドー×デュラハーン"
+  - "【特】シドー×ワイトキング"
+  - "【特】ゾーマズデビル×デュラハーン"
+  - "【特】ゾーマズデビル×ワイトキング"
+- :name: ダイヤモンドスライム
+  :system: スラ系
+  :c_rank: '571'
+  :rank: SS
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】スライムマデュラ×スラキャンサー"
+  - "【4体】ゴールデンスライム×ゴールデンスライム×スライムマデュラ×スライムマデュラ"
+- :name: かみさま
+  :system: "？？？系"
+  :c_rank: '572'
+  :rank: SS
+  :size: S
+  :methods:
+  - 配信（スライムのおへや）
+  :parents:
+  - " "
+- :name: わたぼう
+  :system: "？？？系"
+  :c_rank: '573'
+  :rank: SS
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: エリスグール
+  :system: 物質系
+  :c_rank: '574'
+  :rank: SS
+  :size: G
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: 大魔王デスタムーア
+  :system: "？？？系"
+  :c_rank: '575'
+  :rank: SS
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】デスピサロ×魔王デスタムーア"
+- :name: 邪獣ヒヒュルデ
+  :system: "？？？系"
+  :c_rank: '576'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【4体】海王神×ヒヒュルデの使い×邪神レオソード×ギス・バーグ"
+- :name: はぐれメタルキング
+  :system: スラ系
+  :c_rank: '577'
+  :rank: SS
+  :size: G
+  :methods:
+  - 他国マスタータマゴから生まれる
+  - ちいさなメダル報酬
+  - すれちがいバトル
+  :parents:
+  - "【特】ダイヤモンドスライム×スラ・ブラスター"
+  - "【特】ダイヤモンドスライム×スライダークロボ"
+  - "【特】ダイヤモンドスライム×勇者スラリンガル"
+  - "【特】ダイヤモンドスライム×エリスグール"
+- :name: バルボロス
+  :system: ドラ系
+  :c_rank: '578'
+  :rank: SS
+  :size: M
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - " "
+- :name: グレイナル
+  :system: ドラ系
+  :c_rank: '579'
+  :rank: SS
+  :size: M
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】バルボロス×竜神王"
+- :name: エグドラシル
+  :system: 自然系
+  :c_rank: '580'
+  :rank: SS
+  :size: G
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】じんめんじゅ×わたぼう"
+  - "【特】じんめんじゅ×ワルぼう"
+- :name: マガルギ
+  :system: "？？？系"
+  :c_rank: '581'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】やまたのおろち×ギガデーモン"
+- :name: サージタウス
+  :system: 物質系
+  :c_rank: '582'
+  :rank: SS
+  :size: G
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】キラーマジンガ×キラーマジンガ"
+  - "【4体】キラーマシン×キラーマシン2×スーパーキラーマシン×トラップボックス"
+  - "【4体】キラーマシン×キラーマシン2×スーパーキラーマシン×プロトキラー"
+- :name: 魔王オルゴ・デミーラ
+  :system: "？？？系"
+  :c_rank: '583'
+  :rank: SS
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】フォロボス×オルゴ・デミーラ"
+  - "【特】フォロボシータ×オルゴ・デミーラ"
+- :name: ガーディス
+  :system: "？？？系"
+  :c_rank: '584'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】サージタウス×魔王ジェイム"
+- :name: 神竜
+  :system: ドラ系
+  :c_rank: '585'
+  :rank: SS
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】グレイナル×にじくじゃく"
+  - "【特】グレイナル×エグドラシル"
+  - "【特】グレイナル×じげんりゅう"
+- :name: トーポ
+  :system: 自然系
+  :c_rank: '586'
+  :rank: SS
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】グレイナル×わたぼう"
+  - "【特】グレイナル×かみさま"
+- :name: 絶望と憎悪の魔宮
+  :system: 物質系
+  :c_rank: '587'
+  :rank: SS
+  :size: G
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: 魔王ラプソーン
+  :system: "？？？系"
+  :c_rank: '588'
+  :rank: SS
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】大魔王ゾーマ×魔王ミルドラース×大魔王デスタムーア×魔王オルゴ・デミーラ"
+- :name: メタルスター
+  :system: スラ系
+  :c_rank: '589'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】スライダークロボ×はぐれメタルキング"
+- :name: じげんりゅう
+  :system: ドラ系
+  :c_rank: '590'
+  :rank: SS
+  :size: M
+  :methods:
+  - 配信
+  :parents:
+  - " "
+- :name: 海王神
+  :system: "？？？系"
+  :c_rank: '591'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】グラコス×ダークドレアム"
+  - "【特】ゆうれい船×ダークドレアム"
+- :name: エスターク
+  :system: "？？？系"
+  :c_rank: '592'
+  :rank: SS
+  :size: G
+  :methods:
+  - ねむりの扉（ボス）
+  :parents:
+  - "【特】タイタニス×魔王ジェイム"
+  - "【特】タイタニス×プチターク"
+- :name: ダークドレアム
+  :system: 悪魔系
+  :c_rank: '593'
+  :rank: SS
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】デュラン×ガルマッゾ"
+- :name: 大魔王ラプソーン
+  :system: "？？？系"
+  :c_rank: '594'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】魔王ラプソーン×エスターク"
+- :name: 神鳥レティス
+  :system: 自然系
+  :c_rank: '595'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】竜神王×レティス"
+- :name: ラーミア
+  :system: "？？？系"
+  :c_rank: '596'
+  :rank: SS
+  :size: G
+  :methods:
+  - 配信（マックでDS、スライムのおへや）
+  :parents:
+  - " "
+- :name: デモンスペーディオ
+  :system: "？？？系"
+  :c_rank: '597'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】キングスペーディオ×レオパルド"
+- :name: JOKER
+  :system: "？？？系"
+  :c_rank: '598'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】キングスペーディオ×神鳥レティス"
+  - "【特】キングスペーディオ×ラーミア"
+- :name: 邪神レオソード
+  :system: "？？？系"
+  :c_rank: '599'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】デモンスペーディオ×少年レオソード"
+- :name: 闘神レオソード
+  :system: "？？？系"
+  :c_rank: '600'
+  :rank: SS
+  :size: G
+  :methods:
+  - すれちがいバトル
+  :parents:
+  - "【特】JOKER×少年レオソード"
+- :name: オムド・ロレス
+  :system: "？？？系"
+  :c_rank: '601'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】闘神レオソード×マスタードラゴン"
+- :name: ギスヴァーグ
+  :system: "？？？系"
+  :c_rank: '602'
+  :rank: SS
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】オムド・ロレス×マガルギ"
+- :name: 竜神王
+  :system: ドラ系
+  :c_rank: '603'
+  :rank: SS
+  :size: M
+  :methods:
+  - " "
+  :parents:
+  - "【特】竜王×大魔王ラプソーン"
+- :name: エルギオス
+  :system: "？？？系"
+  :c_rank: '604'
+  :rank: SS
+  :size: S
+  :methods:
+  - " "
+  :parents:
+  - "【特】暗黒皇帝ガナサダイ×マガルギ"
+- :name: マスタードラゴン
+  :system: ドラ系
+  :c_rank: '605'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】竜王×神竜"
+  - "【特】竜王×トーポ"
+- :name: ヒヒュドラード
+  :system: "？？？系"
+  :c_rank: '606'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】邪獣ヒヒュルデ×エルギオス"
+- :name: アギロゴス
+  :system: ドラ系
+  :c_rank: '607'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】神竜×神鳥レティス"
+- :name: 凶魔獣メイザー
+  :system: "？？？系"
+  :c_rank: '608'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】ヒヒュドラード×竜皇帝バルクディス"
+- :name: 魔戦神ゼメルギアス
+  :system: "？？？系"
+  :c_rank: '609'
+  :rank: SS
+  :size: G
+  :methods:
+  - " "
+  :parents:
+  - "【特】凶魔獣メイザー×アギロゴス"

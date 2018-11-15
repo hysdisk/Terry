@@ -1,0 +1,2895 @@
+---
+- :name: スライム
+  :system: スラ系
+  :c_rank: '1'
+  :rank: F
+  :size: S
+  :methods:
+  - たびだちの扉
+  - まよいの扉
+  - 最初の仲間
+  - 他国マスター
+  :parents:
+  - "-"
+- :name: ドラゴンキッズ
+  :system: ドラ系
+  :c_rank: '2'
+  :rank: F
+  :size: S
+  :methods:
+  - まもりの扉ねむりの扉
+  :parents:
+  - "【特】スライム×ズッキーニャ"
+- :name: ズッキーニャ
+  :system: 自然系
+  :c_rank: '3'
+  :rank: F
+  :size: S
+  :methods:
+  - まちびとの扉まよいの扉たくらみの扉他国マスター
+  :parents:
+  - "-"
+- :name: ももんじゃ
+  :system: 魔獣系
+  :c_rank: '4'
+  :rank: F
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】スライム×メラゴースト"
+- :name: おばけキャンドル
+  :system: 物質系
+  :c_rank: '5'
+  :rank: F
+  :size: S
+  :methods:
+  - たびだちの扉まちびとの扉たくらみの扉他国マスター
+  :parents:
+  - "【位】ドラゴンキッズ×リーファ"
+- :name: おおめだま
+  :system: 悪魔系
+  :c_rank: '6'
+  :rank: F
+  :size: S
+  :methods:
+  - いかりの扉ちからの扉ふういんの扉
+  :parents:
+  - "【位】スライム×おばけキャンドル"
+- :name: メラゴースト
+  :system: ゾンビ系
+  :c_rank: '7'
+  :rank: F
+  :size: S
+  :methods:
+  - いかりの扉
+  - ちからの扉
+  :parents:
+  - "【位】スライム×おおめだま"
+- :name: リーファ
+  :system: スラ系
+  :c_rank: '8'
+  :rank: F
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】ドラゴンキッズ×メラゴースト"
+- :name: コドラ
+  :system: ドラ系
+  :c_rank: '9'
+  :rank: F
+  :size: S
+  :methods:
+  - まよいの扉まぼろしの扉ねむりの扉
+  :parents:
+  - "【位】ズッキーニャ×リーファ"
+- :name: カバシラー
+  :system: 自然系
+  :c_rank: '10'
+  :rank: F
+  :size: S
+  :methods:
+  - まちびとの扉
+  :parents:
+  - "【位】ズッキーニャ×ドラゴンキッズ"
+- :name: いたずらもぐら
+  :system: 魔獣系
+  :c_rank: '11'
+  :rank: F
+  :size: S
+  :methods:
+  - ほろびの扉他国マスター
+  :parents:
+  - "【位】ももんじゃ×ズッキーニャ"
+- :name: わらいぶくろ
+  :system: 物質系
+  :c_rank: '12'
+  :rank: F
+  :size: S
+  :methods:
+  - まもりの扉おもいでの扉
+  :parents:
+  - "【位】おばけキャンドル×ももんじゃ"
+- :name: ドラキー
+  :system: 悪魔系
+  :c_rank: '13'
+  :rank: F
+  :size: S
+  :methods:
+  - たびだちの扉まちびとの扉他国マスター
+  :parents:
+  - "【位】おおめだま×おばけキャンドル"
+- :name: ゴースト
+  :system: ゾンビ系
+  :c_rank: '14'
+  :rank: F
+  :size: S
+  :methods:
+  - よろこびの扉タマゴから生まれる
+  :parents:
+  - "【位】メラゴースト×おおめだま"
+- :name: タマゴロン
+  :system: スラ系
+  :c_rank: '15'
+  :rank: F
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【位】リーファ×メラゴースト"
+- :name: リザードキッズ
+  :system: ドラ系
+  :c_rank: '16'
+  :rank: F
+  :size: S
+  :methods:
+  - やすらぎの扉とまどいの扉ねむりの扉
+  :parents:
+  - "【位】コドラ×リーファ"
+  - "【特】アルゴリザード×魔獣系"
+- :name: くしざしツインズ
+  :system: 自然系
+  :c_rank: '17'
+  :rank: F
+  :size: S
+  :methods:
+  - まもりの扉おもいでの扉
+  :parents:
+  - "【位】カバシラー×コドラ"
+- :name: アントベア
+  :system: 魔獣系
+  :c_rank: '18'
+  :rank: F
+  :size: S
+  :methods:
+  - たびだちの扉他国マスター
+  :parents:
+  - "【位】いたずらもぐら×カバシラー"
+- :name: どろにんぎょう
+  :system: 物質系
+  :c_rank: '19'
+  :rank: F
+  :size: S
+  :methods:
+  - おもいでの扉ゆうきの扉たくらみの扉
+  :parents:
+  - "【位】わらいぶくろ×いたずらもぐら"
+- :name: リップス
+  :system: 悪魔系
+  :c_rank: '20'
+  :rank: F
+  :size: S
+  :methods:
+  - ふういんの扉他国マスター
+  :parents:
+  - "【位】ドラキー×わらいぶくろ"
+- :name: きりかぶおばけ
+  :system: ゾンビ系
+  :c_rank: '21'
+  :rank: F
+  :size: S
+  :methods:
+  - おもいでの扉ゆうきの扉他国マスター
+  :parents:
+  - "【位】ゴースト×ドラキー"
+- :name: スライムツリー
+  :system: スラ系
+  :c_rank: '22'
+  :rank: F
+  :size: S
+  :methods:
+  - おもいでの扉ゆうきの扉うらみの扉
+  :parents:
+  - "【位】タマゴロン×ゴースト"
+- :name: とさかへび
+  :system: ドラ系
+  :c_rank: '23'
+  :rank: F
+  :size: S
+  :methods:
+  - まちびとの扉まもりの扉ねむりの扉
+  :parents:
+  - "【位】リザードキッズ×タマゴロン"
+- :name: ピッキー
+  :system: 自然系
+  :c_rank: '24'
+  :rank: F
+  :size: S
+  :methods:
+  - たびだちの扉まよいの扉
+  :parents:
+  - "【位】くしざしツインズ×タマゴロン"
+- :name: ファーラット
+  :system: 魔獣系
+  :c_rank: '25'
+  :rank: F
+  :size: S
+  :methods:
+  - まちびとの扉まもりの扉
+  :parents:
+  - "【位】アントベア×くしざしツインズ"
+- :name: ネジまきどり
+  :system: 物質系
+  :c_rank: '26'
+  :rank: F
+  :size: S
+  :methods:
+  - しんじつの扉しれんの扉
+  :parents:
+  - "【位】どろにんじょう×アントベア"
+- :name: おにこぞう
+  :system: 悪魔系
+  :c_rank: '27'
+  :rank: F
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】リップス×どろにんぎょう"
+- :name: エビルシード
+  :system: ゾンビ系
+  :c_rank: '28'
+  :rank: F
+  :size: S
+  :methods:
+  - ゆうきの扉
+  :parents:
+  - "【位】きりかぶおばけ×リップス"
+- :name: バブルスライム
+  :system: スラ系
+  :c_rank: '29'
+  :rank: F
+  :size: S
+  :methods:
+  - まぼろしの扉きょじんの扉
+  :parents:
+  - "【位】スライムツリー×きりかぶおばけ"
+- :name: いばらドラゴン
+  :system: ドラ系
+  :c_rank: '30'
+  :rank: F
+  :size: S
+  :methods:
+  - ねむりの扉
+  :parents:
+  - "【位】とさかへび×スライムツリー"
+- :name: キャタピラー
+  :system: 自然系
+  :c_rank: '31'
+  :rank: F
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】ピッキー×とさかへび"
+- :name: おおきづち
+  :system: 魔獣系
+  :c_rank: '32'
+  :rank: F
+  :size: S
+  :methods:
+  - ゆうきの扉やすらぎの扉他国マスター
+  :parents:
+  - "【位】ファーラット×ピッキー"
+- :name: ばくだんベビー
+  :system: 物質系
+  :c_rank: '33'
+  :rank: F
+  :size: S
+  :methods:
+  - とまどいの扉他国マスター
+  :parents:
+  - "【位】ネジまきどり×ピッキー"
+- :name: プークプック
+  :system: 悪魔系
+  :c_rank: '34'
+  :rank: F
+  :size: S
+  :methods:
+  - とまどいの扉
+  :parents:
+  - "【位】おにこぞう×ネジまきどり"
+- :name: おばけきのこ
+  :system: ゾンビ系
+  :c_rank: '35'
+  :rank: F
+  :size: S
+  :methods:
+  - よろこびの扉
+  :parents:
+  - "【位】エビルシード×おにこぞう"
+- :name: ホイミスライム
+  :system: スラ系
+  :c_rank: '36'
+  :rank: F
+  :size: S
+  :methods:
+  - たびだちの扉（ボス）
+  :parents:
+  - "【位】バブルスライム×エビルシード"
+- :name: アルゴリザード
+  :system: ドラ系
+  :c_rank: '37'
+  :rank: F
+  :size: S
+  :methods:
+  - しんじつの扉
+  - ねむりの扉
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【位】いばらドラゴン×おにこぞう"
+  - "【特】リザードキッズ×ゾンビ系"
+- :name: ぐんたいアリ
+  :system: 自然系
+  :c_rank: '38'
+  :rank: F
+  :size: S
+  :methods:
+  - まもりの扉おもいでの扉他国マスター
+  :parents:
+  - "【位】キャタピラー×いばらドラゴン"
+- :name: ポンポコだぬき
+  :system: 魔獣系
+  :c_rank: '39'
+  :rank: F
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【位】おおきづち×いばらドラゴン"
+- :name: ブリザード
+  :system: 物質系
+  :c_rank: '40'
+  :rank: F
+  :size: S
+  :methods:
+  - タマゴから生まれる他国マスター
+  :parents:
+  - "【位】ばくだんベビー×おおきづち"
+  - "【特】フレイム×スノードラゴン"
+  - "【特】フレイム×イエティ"
+- :name: ヘルボックル
+  :system: 悪魔系
+  :c_rank: '41'
+  :rank: F
+  :size: S
+  :methods:
+  - しれんの扉きぼうの扉
+  :parents:
+  - "【位】プークプック×ばくだんベビー"
+- :name: アニマルゾンビ
+  :system: ゾンビ系
+  :c_rank: '42'
+  :rank: F
+  :size: S
+  :methods:
+  - とまどいの扉
+  - ちからの扉
+  :parents:
+  - "【位】おばけきのこ×プークプック"
+- :name: はねスライム
+  :system: スラ系
+  :c_rank: '43'
+  :rank: F
+  :size: S
+  :methods:
+  - ほろびの扉さそいの扉うらみの扉
+  :parents:
+  - "【位】ホイミスライム×おばけきのこ"
+- :name: デンデン竜
+  :system: ドラ系
+  :c_rank: '44'
+  :rank: F
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【位】アルゴリザード×ホイミスライム"
+  - "【特】リザードキッズ×自然系"
+  - "【特】アルゴリザード×自然系"
+- :name: はなカワセミ
+  :system: 自然系
+  :c_rank: '45'
+  :rank: F
+  :size: S
+  :methods:
+  - しれんの扉さいはての扉
+  :parents:
+  - "【位】ぐんたいアリ×ホイミスライム"
+- :name: おおがらす
+  :system: 自然系
+  :c_rank: '46'
+  :rank: F
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ピッキー×ゾンビ系"
+- :name: イエティ
+  :system: 魔獣系
+  :c_rank: '47'
+  :rank: F
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【位】ポンポコだぬき×ぐんたいアリ"
+  - "【特】ブリザード×魔獣系"
+- :name: ベロゴン
+  :system: 魔獣系
+  :c_rank: '48'
+  :rank: F
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】ファーラット×アニマルゾンビ"
+- :name: シャイニング
+  :system: 物質系
+  :c_rank: '49'
+  :rank: F
+  :size: S
+  :methods:
+  - しんじつの扉
+  :parents:
+  - "【位】ブリザード×ぐんたいアリ"
+- :name: かまっち
+  :system: 物質系
+  :c_rank: '50'
+  :rank: F
+  :size: S
+  :methods:
+  - 他国マスタータマゴから生まれる
+  :parents:
+  - "【特】ファーファット×物質系"
+- :name: メーダ
+  :system: 悪魔系
+  :c_rank: '51'
+  :rank: F
+  :size: S
+  :methods:
+  - ちからの扉他国マスター
+  :parents:
+  - "【位】ヘルボックル×ブリザード"
+- :name: プチット族
+  :system: 悪魔系
+  :c_rank: '52'
+  :rank: F
+  :size: S
+  :methods:
+  - まぼろしの扉タマゴから生まれる
+  :parents:
+  - "【位】メーダ×シャイニング"
+- :name: ドロル
+  :system: ゾンビ系
+  :c_rank: '53'
+  :rank: F
+  :size: S
+  :methods:
+  - よろこびの扉他国マスター
+  :parents:
+  - "【位】アニマルゾンビ×ヘルボックル"
+- :name: ガップリン
+  :system: ゾンビ系
+  :c_rank: '54'
+  :rank: F
+  :size: S
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【特】くしざしツインズ×悪魔系"
+- :name: ドラゴスライム
+  :system: スラ系
+  :c_rank: '55'
+  :rank: F
+  :size: S
+  :methods:
+  - うらみの扉
+  :parents:
+  - "【位】はねスライム×アニマルゾンビ"
+  - "【特】スライム×ドラゴン系"
+- :name: リザードフライ
+  :system: ドラ系
+  :c_rank: '56'
+  :rank: F
+  :size: S
+  :methods:
+  - ちからの扉よろこびの扉ねむりの扉他国マスター
+  :parents:
+  - "【位】デンデン竜×はねスライム"
+- :name: キリキリバッタ
+  :system: 自然系
+  :c_rank: '57'
+  :rank: F
+  :size: S
+  :methods:
+  - まよいの扉
+  :parents:
+  - "【位】はなカワセミ×はねスライム"
+- :name: じんめんガエル
+  :system: 魔獣系
+  :c_rank: '58'
+  :rank: F
+  :size: S
+  :methods:
+  - とまどいの扉
+  :parents:
+  - "【位】イエティ×はなカワセミ"
+- :name: ガオン
+  :system: 物質系
+  :c_rank: '59'
+  :rank: F
+  :size: S
+  :methods:
+  - いかりの扉
+  :parents:
+  - "【位】シャイニング×イエティ"
+- :name: シーメーダ
+  :system: 悪魔系
+  :c_rank: '60'
+  :rank: F
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【位】プチット族×シャイニング"
+- :name: スモールグール
+  :system: ゾンビ系
+  :c_rank: '61'
+  :rank: F
+  :size: S
+  :methods:
+  - しんじつの扉他国マスター
+  :parents:
+  - "【位】ドロル×プチット族"
+- :name: エテポンゲ
+  :system: ゾンビ系
+  :c_rank: '62'
+  :rank: F
+  :size: "-"
+  :methods:
+  - 配信（プレゼント対戦）
+  :parents:
+  - "-"
+- :name: ポイズンリザード
+  :system: ドラ系
+  :c_rank: '63'
+  :rank: F
+  :size: S
+  :methods:
+  - まよいの扉
+  - まぼろしの扉
+  - ねむりの扉
+  :parents:
+  - "【位】リザードフライ×ドラゴスライム"
+- :name: ミノーン
+  :system: 自然系
+  :c_rank: '64'
+  :rank: F
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】キリキリバッタ×リザードフライ"
+- :name: ナスビナーラ
+  :system: 自然系
+  :c_rank: '65'
+  :rank: F
+  :size: S
+  :methods:
+  - たびだちの扉他国マスタータマゴから生まれる
+  :parents:
+  - "【特】ズッキーニャ×ガップリン"
+- :name: キャットフライ
+  :system: 魔獣系
+  :c_rank: '66'
+  :rank: F
+  :size: S
+  :methods:
+  - とまどいの扉
+  :parents:
+  - "【位】じんめんガエル×キリキリバッタ"
+- :name: マドハンド
+  :system: 物質系
+  :c_rank: '67'
+  :rank: F
+  :size: S
+  :methods:
+  - やすらぎの扉とまどいの扉
+  :parents:
+  - "【位】ガオン×じんめんガエル"
+- :name: シャーマン
+  :system: 悪魔系
+  :c_rank: '68'
+  :rank: F
+  :size: S
+  :methods:
+  - おおぞらの扉しあわせの扉
+  :parents:
+  - "【位】シーメーダ×ガオン"
+- :name: ミイラおとこ
+  :system: ゾンビ系
+  :c_rank: '69'
+  :rank: F
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】スモールグール×シーメーダ"
+- :name: スライムファング
+  :system: スラ系
+  :c_rank: '70'
+  :rank: F
+  :size: S
+  :methods:
+  - やすらぎの扉（ボス）
+  :parents:
+  - "【位】ドラゴスライム×ドロル"
+- :name: スノードラゴン
+  :system: ドラ系
+  :c_rank: '71'
+  :rank: F
+  :size: M
+  :methods:
+  - まちびとの扉他国マスター
+  :parents:
+  - "【位】ポイズンリザード×スモールグール"
+- :name: おおにわとり
+  :system: 自然系
+  :c_rank: '72'
+  :rank: F
+  :size: M
+  :methods:
+  - とまどいの扉
+  :parents:
+  - "【位】ミノーン×ポイズンリザード"
+- :name: スカルガルー
+  :system: 魔獣系
+  :c_rank: '73'
+  :rank: F
+  :size: S
+  :methods:
+  - とまどいの扉いかりの扉
+  :parents:
+  - "【位】キャットフライ×ミノーン"
+- :name: ミステリドール
+  :system: 物質系
+  :c_rank: '74'
+  :rank: F
+  :size: S
+  :methods:
+  - ほろびの扉
+  :parents:
+  - "【位】マドハンド×キャットフライ"
+- :name: コサックシープ
+  :system: 悪魔系
+  :c_rank: '75'
+  :rank: F
+  :size: S
+  :methods:
+  - しんじつの扉しれんの扉タマゴから生まれる
+  :parents:
+  - "【位】シャーマン×マドハンド"
+  - "【特】プークプック×自然系"
+- :name: ミストウイング
+  :system: ゾンビ系
+  :c_rank: '76'
+  :rank: F
+  :size: M
+  :methods:
+  - まもりの扉
+  - ゆうきの扉
+  - ふういんの扉
+  :parents:
+  - "【位】ミイラおとこ×シャーマン"
+- :name: いっかく竜
+  :system: ドラ系
+  :c_rank: '77'
+  :rank: E
+  :size: S
+  :methods:
+  - よろこびの扉
+  - ねむりの扉
+  :parents:
+  - "【位】スノードラゴン×ミイラおとこ"
+  - "【特】コドラ×物質系"
+- :name: あばれうしどり
+  :system: 自然系
+  :c_rank: '78'
+  :rank: E
+  :size: S
+  :methods:
+  - しあわせの扉
+  :parents:
+  - "【位】おおにわとり×スノードラゴン"
+- :name: ペピーパンサー
+  :system: 魔獣系
+  :c_rank: '79'
+  :rank: E
+  :size: S
+  :methods:
+  - おもいでの扉
+  :parents:
+  - "【位】スカルガルー×おおにわとり"
+- :name: ばくだんいわ
+  :system: 物質系
+  :c_rank: '80'
+  :rank: E
+  :size: S
+  :methods:
+  - まぼろしの扉
+  :parents:
+  - "【位】ミステリードール×スカルガルー"
+- :name: ブッチョマン
+  :system: 悪魔系
+  :c_rank: '81'
+  :rank: E
+  :size: S
+  :methods:
+  - きょじんの扉
+  - しんじつの扉
+  - 他国マスター
+  :parents:
+  - "【位】コサックシープ×ミステリードール"
+- :name: やたがらす
+  :system: ゾンビ系
+  :c_rank: '82'
+  :rank: E
+  :size: S
+  :methods:
+  - さそいの扉
+  :parents:
+  - "【位】ミストウイング×コサックシープ"
+- :name: エビルドライブ
+  :system: ゾンビ系
+  :c_rank: '83'
+  :rank: E
+  :size: S
+  :methods:
+  - ゆうきの扉
+  :parents:
+  - "【特】ドラゴン×悪魔系"
+- :name: スライムベス
+  :system: スラ系
+  :c_rank: '84'
+  :rank: E
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【位】スライムファング×ミイラおとこ"
+- :name: ドラゴンブッシュ
+  :system: ドラ系
+  :c_rank: '85'
+  :rank: E
+  :size: S
+  :methods:
+  - しあわせの扉
+  :parents:
+  - "【位】いっかく竜×ミストウイング"
+  - "【特】いばらドラゴン×ゾンビ系"
+- :name: もみじこぞう
+  :system: 自然系
+  :c_rank: '86'
+  :rank: E
+  :size: S
+  :methods:
+  - ゆうきの扉
+  - たくらみの扉
+  :parents:
+  - "【位】あばれうしどり×ミストウイング"
+- :name: ワンダーフール
+  :system: 魔獣系
+  :c_rank: '87'
+  :rank: E
+  :size: S
+  :methods:
+  - まぼろしの扉
+  - きょじんの扉
+  :parents:
+  - "【位】ベビーパンサー×あばれうしどり"
+- :name: フレイム
+  :system: 物質系
+  :c_rank: '88'
+  :rank: E
+  :size: S
+  :methods:
+  - おおぞらの扉
+  - 他国マスター
+  :parents:
+  - "【位】ばくだんいわ×ベビーパンサー"
+  - "【特】ブリザード×シャイニング"
+  - "【特】ブリザード×メラゴースト"
+- :name: くびかり族
+  :system: 悪魔系
+  :c_rank: '89'
+  :rank: E
+  :size: S
+  :methods:
+  - とまどいの扉
+  - いかりの扉
+  :parents:
+  - "【位】ブッチョマン×ばくだんいわ"
+- :name: ボーンプリズナー
+  :system: ゾンビ系
+  :c_rank: '90'
+  :rank: E
+  :size: S
+  :methods:
+  - ゆうきの扉
+  - とまどいの扉
+  :parents:
+  - "【位】やたがらす×ブッチョマン"
+- :name: ドロルメイジ
+  :system: ゾンビ系
+  :c_rank: '91'
+  :rank: E
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "-"
+- :name: ダッシュラン
+  :system: ドラ系
+  :c_rank: '92'
+  :rank: E
+  :size: S
+  :methods:
+  - まぼろしの扉
+  - ねむりの扉
+  :parents:
+  - "【位】ドラゴンブッシュ×スライムベス"
+  - "【特】コドラ×リザードキッズ"
+  - "【特】コドラ×アルゴリザード"
+- :name: マッドプラント
+  :system: 自然系
+  :c_rank: '93'
+  :rank: E
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】もみじこぞう×ドラゴンブッシュ"
+- :name: グリズリー
+  :system: 魔獣系
+  :c_rank: '94'
+  :rank: E
+  :size: M
+  :methods:
+  - よろこびの扉
+  - 他国マスター
+  :parents:
+  - "【位】ワンダーフール×ドラゴンブッシュ"
+- :name: モーモン
+  :system: 魔獣系
+  :c_rank: '95'
+  :rank: E
+  :size: S
+  :methods:
+  - 他国マスター
+  - たまごから生まれる
+  :parents:
+  - "-"
+- :name: ドロヌーバ
+  :system: 物質系
+  :c_rank: '96'
+  :rank: E
+  :size: S
+  :methods:
+  - よろこびの扉
+  - おおぞらの扉
+  - たくらみの扉
+  :parents:
+  - "【位】フレイム×ワンダーフール"
+- :name: ドルイド
+  :system: 悪魔系
+  :c_rank: '97'
+  :rank: E
+  :size: S
+  :methods:
+  - おもいでの扉
+  :parents:
+  - "【位】くびかり族×フレイム"
+- :name: スキッパー
+  :system: ゾンビ系
+  :c_rank: '98'
+  :rank: E
+  :size: S
+  :methods:
+  - ちからの扉
+  - よろこびの扉
+  :parents:
+  - "【位】ボーンプリズナー×くびかり族"
+- :name: スライムつむり
+  :system: スラ系
+  :c_rank: '99'
+  :rank: E
+  :size: S
+  :methods:
+  - しあわせの扉
+  :parents:
+  - "【位】スライムベス×やたがらす"
+- :name: ドラゴン
+  :system: ドラ系
+  :c_rank: '100'
+  :rank: E
+  :size: M
+  :methods:
+  - まちびとの扉（ボス）
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【位】ダッシュラン×ドロルメイジ"
+  - "【特】ドラゴンキッズ×ドラゴンキッズ"
+- :name: サボテンボール
+  :system: 自然系
+  :c_rank: '101'
+  :rank: E
+  :size: S
+  :methods:
+  - ジョーカー2から引越し
+  :parents:
+  - "-"
+- :name: よるのていおう
+  :system: 魔獣系
+  :c_rank: '102'
+  :rank: E
+  :size: S
+  :methods:
+  - ちからの扉
+  - よろこびの扉
+  - うらみの扉
+  :parents:
+  - "【位】グリズリー×マッドプラント"
+- :name: リンリン
+  :system: 物質系
+  :c_rank: '103'
+  :rank: E
+  :size: S
+  :methods:
+  - おおぞらの扉
+  :parents:
+  - "【位】ドロヌーバー×グリズリー"
+- :name: ジャンバラヤン
+  :system: 悪魔系
+  :c_rank: '104'
+  :rank: E
+  :size: S
+  :methods:
+  - やすらぎの扉
+  :parents:
+  - "【位】ドルイド×ドロヌーバ"
+- :name: ダースウルフェン
+  :system: ゾンビ系
+  :c_rank: '105'
+  :rank: E
+  :size: S
+  :methods:
+  - さそいの扉
+  - ふういんの扉
+  :parents:
+  - "【位】スキッパー×ドルイド"
+- :name: フェアリードラゴン
+  :system: ドラ系
+  :c_rank: '106'
+  :rank: E
+  :size: S
+  :methods:
+  - しあわせの扉
+  - ねむりの扉
+  :parents:
+  - "【位】ドラゴン×スライムつむり"
+- :name: オニオーン
+  :system: 自然系
+  :c_rank: '107'
+  :rank: E
+  :size: S
+  :methods:
+  - ほろびの扉
+  :parents:
+  - "【位】マッドプラント×ダッシュラン"
+- :name: シードッグ
+  :system: 魔獣系
+  :c_rank: '108'
+  :rank: E
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】よるのていおう×スライムつむり"
+- :name: プリズニャン
+  :system: 魔獣系
+  :c_rank: '109'
+  :rank: E
+  :size: S
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "-"
+- :name: おどるほうせき
+  :system: 物質系
+  :c_rank: '110'
+  :rank: E
+  :size: S
+  :methods:
+  - おもいでの扉
+  :parents:
+  - "【位】リンリン×よるのていおう"
+  - "【特】わらいぶくろ×わらいぶくろ"
+- :name: ベビーサタン
+  :system: 悪魔系
+  :c_rank: '111'
+  :rank: E
+  :size: S
+  :methods:
+  - きょじんの扉
+  - しんじつの扉
+  :parents:
+  - "【位】ジャンバラヤン×よるのていおう"
+- :name: マッドロン
+  :system: ゾンビ系
+  :c_rank: '112'
+  :rank: E
+  :size: S
+  :methods:
+  - さそいの扉
+  :parents:
+  - "【位】ダースウルフェン×ジャンバラヤン"
+- :name: ぶちスライム
+  :system: スラ系
+  :c_rank: '113'
+  :rank: E
+  :size: S
+  :methods:
+  - ちからの扉
+  - うらみの扉
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【位】スライムつむり×スキッパー"
+  - "【特】スライム×スライムベス"
+- :name: おおイグアナ
+  :system: ドラ系
+  :c_rank: '114'
+  :rank: E
+  :size: M
+  :methods:
+  - いかりの扉
+  - ねむりの扉
+  :parents:
+  - "【位】フェアリードラゴン×ダースウルフェン"
+- :name: テールイーター
+  :system: 自然系
+  :c_rank: '115'
+  :rank: E
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】オニオーン×フェアリードラゴン"
+- :name: どんぐりベビー
+  :system: 自然系
+  :c_rank: '116'
+  :rank: E
+  :size: S
+  :methods:
+  - ちいさなメダル10枚の報酬
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【特】サボテンボール×ガップリン"
+- :name: アルミラージ
+  :system: 魔獣系
+  :c_rank: '117'
+  :rank: E
+  :size: S
+  :methods:
+  - きょじんの扉
+  - 他国マスター
+  :parents:
+  - "【位】シードッグ×オニオーン"
+  - "【特】いっかく竜×自然系"
+- :name: あくまのつぼ
+  :system: 物質系
+  :c_rank: '118'
+  :rank: E
+  :size: S
+  :methods:
+  - 旅の扉内の各地
+  :parents:
+  - "【位】おどるほうせき×シードッグ"
+- :name: グレムリン
+  :system: 悪魔系
+  :c_rank: '119'
+  :rank: E
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】ベビーサタン×おどるほうせき"
+- :name: ハエおとこ
+  :system: ゾンビ系
+  :c_rank: '120'
+  :rank: E
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】マッドロン×おどるほうせき"
+- :name: ウィングスネーク
+  :system: ドラ系
+  :c_rank: '121'
+  :rank: E
+  :size: S
+  :methods:
+  - ちからの扉
+  :parents:
+  - "【位】おおイグアナ×ぶちスライム"
+- :name: かまいたち
+  :system: 自然系
+  :c_rank: '122'
+  :rank: E
+  :size: S
+  :methods:
+  - さそいの扉
+  :parents:
+  - "【位】テールイーター×おおイグアナ"
+- :name: サーベルきつね
+  :system: 魔獣系
+  :c_rank: '123'
+  :rank: E
+  :size: S
+  :methods:
+  - まよいの扉
+  :parents:
+  - "【位】アルミラージ×テールイーター"
+- :name: ひとくい箱
+  :system: 物質系
+  :c_rank: '124'
+  :rank: E
+  :size: S
+  :methods:
+  - 旅の扉の各地
+  :parents:
+  - "【位】あくまのつぼ×アルミラージ"
+  - "【特】わらいぶくろ×ばくだんいわ"
+- :name: ヌボーン
+  :system: 悪魔系
+  :c_rank: '125'
+  :rank: E
+  :size: S
+  :methods:
+  - さそいの扉
+  - さばきの扉
+  :parents:
+  - "【位】グレムリン×あくまのつぼ"
+  - "【特】デンデン竜×悪魔系"
+- :name: はなまどう
+  :system: ゾンビ系
+  :c_rank: '126'
+  :rank: E
+  :size: S
+  :methods:
+  - きょじんの扉
+  :parents:
+  - "【位】ハエおとこ×グレムリン"
+- :name: スライムカルゴ
+  :system: スラ系
+  :c_rank: '127'
+  :rank: E
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【位】ぶちスライム×マッドロン"
+- :name: スカルゴン
+  :system: ドラ系
+  :c_rank: '128'
+  :rank: E
+  :size: S
+  :methods:
+  - やすらぎの扉
+  - タマゴから生まれる
+  :parents:
+  - "【特】ドラゴン×ゾンビ系"
+- :name: じんめんちょう
+  :system: 自然系
+  :c_rank: '129'
+  :rank: E
+  :size: S
+  :methods:
+  - しんじつの扉
+  :parents:
+  - "【位】かまいたち×ウィングスネーク"
+- :name: ポグフィッシュ
+  :system: 自然系
+  :c_rank: '130'
+  :rank: E
+  :size: S
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "-"
+- :name: ビックアイ
+  :system: 魔獣系
+  :c_rank: '131'
+  :rank: E
+  :size: S
+  :methods:
+  - ゆうきの扉（ボス）
+  :parents:
+  - "【位】サーベルきつね×かまいたち"
+- :name: シャドー
+  :system: 物質系
+  :c_rank: '132'
+  :rank: E
+  :size: S
+  :methods:
+  - やすらぎの扉
+  - たくらみの扉
+  :parents:
+  - "【位】ひとくい箱×サーベルきつね"
+- :name: びっくりサタン
+  :system: 悪魔系
+  :c_rank: '133'
+  :rank: E
+  :size: S
+  :methods:
+  - きょじんの扉
+  :parents:
+  - "【位】ヌボーン×ひとくい箱"
+- :name: ポムポムボム
+  :system: ゾンビ系
+  :c_rank: '134'
+  :rank: E
+  :size: S
+  :methods:
+  - おおぞらの扉
+  - しあわせの扉
+  :parents:
+  - "【位】はなまどう×ヌボーン"
+  - "【特】サボテンボール×ゾンビ系"
+- :name: ドラゴンバゲージ
+  :system: ドラ系
+  :c_rank: '135'
+  :rank: E
+  :size: S
+  :methods:
+  - しあわせの扉
+  - ほろびの扉
+  :parents:
+  - "【位】スカルゴン×スライムカルゴ"
+  - "【特】デンデン竜×自然系"
+- :name: フェアリーラット
+  :system: 自然系
+  :c_rank: '136'
+  :rank: E
+  :size: S
+  :methods:
+  - まよいの扉
+  - まぼろしの扉
+  :parents:
+  - "【位】じんめんちょう×スライムカルゴ"
+- :name: オーク
+  :system: 魔獣系
+  :c_rank: '137'
+  :rank: E
+  :size: S
+  :methods:
+  - しあわせの扉
+  - ほろびの扉
+  - うらみの扉
+  :parents:
+  - "【位】ビックアイ×じんめんちょう"
+- :name: さつじんいかり
+  :system: 物質系
+  :c_rank: '138'
+  :rank: E
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】リンリン×悪魔系"
+- :name: レッサーデーモン
+  :system: 悪魔系
+  :c_rank: '139'
+  :rank: E
+  :size: S
+  :methods:
+  - しんじつの扉
+  :parents:
+  - "【位】びっくりサタン×シャドー"
+  - "【特】ベビーサタン×ゾンビ系"
+- :name: パラサキス
+  :system: ゾンビ系
+  :c_rank: '140'
+  :rank: E
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】ポムポムボム×びくりサタン"
+- :name: スノーム
+  :system: スラ系
+  :c_rank: '141'
+  :rank: E
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】スライムカルゴ×はなまどう"
+  - "【特】ブリザード×スラ系"
+- :name: フーセンドラゴン
+  :system: ドラ系
+  :c_rank: '142'
+  :rank: E
+  :size: S
+  :methods:
+  - おおぞらの扉
+  - ねむりの扉
+  :parents:
+  - "【位】ドラゴンバゲージ×ポムポムボム"
+- :name: デッドペッカー
+  :system: 自然系
+  :c_rank: '143'
+  :rank: E
+  :size: S
+  :methods:
+  - まぼろしの扉
+  - きょじんの扉
+  :parents:
+  - "【位】フェアリーラット×ドラゴンバゲージ"
+- :name: ストロングアニマル
+  :system: 魔獣系
+  :c_rank: '144'
+  :rank: E
+  :size: S
+  :methods:
+  - さそいの扉
+  :parents:
+  - "【位】オーク×フェアリーラット"
+- :name: とっしんこぞう
+  :system: 物質系
+  :c_rank: '145'
+  :rank: E
+  :size: S
+  :methods:
+  - とまどいの扉
+  :parents:
+  - "【位】さつじにかり×オーク"
+  - "【特】ダッシュラン×物質系"
+- :name: ゴールドマン
+  :system: 物質系
+  :c_rank: '146'
+  :rank: E
+  :size: S
+  :methods:
+  - とまどいの扉
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "【特】ゴーレム×ゴールデンスライム"
+  - "【特】ゴーレム×おどるほうせき"
+- :name: ひとつめピエロ
+  :system: 悪魔系
+  :c_rank: '147'
+  :rank: E
+  :size: S
+  :methods:
+  - ほろびの扉
+  - さそいの扉
+  :parents:
+  - "【位】レッサーデーモン×オーク"
+- :name: ふゆうじゅ
+  :system: ゾンビ系
+  :c_rank: '148'
+  :rank: E
+  :size: S
+  :methods:
+  - さばきの扉
+  - かがみの扉
+  :parents:
+  - "【位】パラサキス×レッサーデーモン"
+- :name: ギャオース
+  :system: ドラ系
+  :c_rank: '149'
+  :rank: D
+  :size: S
+  :methods:
+  - まぼろしの扉
+  - ねむりの扉
+  :parents:
+  - "【位】フーセンドラゴン×スノーム"
+- :name: キメラ
+  :system: 自然系
+  :c_rank: '150'
+  :rank: D
+  :size: S
+  :methods:
+  - さばきの扉
+  - かがみの扉
+  :parents:
+  - "【位】デッドペッカー×スノーム"
+- :name: ブラウニー
+  :system: 魔獣系
+  :c_rank: '151'
+  :rank: D
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】おおきづち×自然系"
+- :name: ギズモ
+  :system: 物質系
+  :c_rank: '152'
+  :rank: D
+  :size: S
+  :methods:
+  - しれんの扉
+  - さいはての扉
+  :parents:
+  - "【位】とっしんこぞう×ストロングアニマル"
+- :name: ピサロのてさき
+  :system: 悪魔系
+  :c_rank: '153'
+  :rank: D
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】ひとつめピエロ×とっしんこぞう"
+- :name: ぼうれいけんし
+  :system: ゾンビ系
+  :c_rank: '154'
+  :rank: D
+  :size: S
+  :methods:
+  - かがみの扉
+  :parents:
+  - "【位】ふゆうじゅ×ひとづめピエロ"
+- :name: スライムナイト
+  :system: スラ系
+  :c_rank: '155'
+  :rank: D
+  :size: S
+  :methods:
+  - いかりの扉
+  :parents:
+  - "【位】スノーム×パラサキス"
+  - "【特】エビルドライブ×スラ系"
+- :name: ダースドラゴン
+  :system: ドラ系
+  :c_rank: '156'
+  :rank: D
+  :size: M
+  :methods:
+  - "-"
+  :parents:
+  - "【位】ギャオース×ふゆうじゅ"
+  - "【特】ドラゴン×魔獣系"
+- :name: せみもぐら
+  :system: 自然系
+  :c_rank: '157'
+  :rank: D
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】キメラ×ギャオース"
+- :name: いわとびあくま
+  :system: 自然系
+  :c_rank: '158'
+  :rank: D
+  :size: S
+  :methods:
+  - よろこびの扉
+  :parents:
+  - "【特】ホークブリザード×自然系"
+- :name: とらおとこ
+  :system: 魔獣系
+  :c_rank: '159'
+  :rank: D
+  :size: S
+  :methods:
+  - まぼろしの扉
+  :parents:
+  - "【位】ストロングアニマル×デッドペッカー"
+- :name: メタッピー
+  :system: 物質系
+  :c_rank: '160'
+  :rank: D
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】×"
+  - "【特】×"
+- :name: デザートデーモン
+  :system: 悪魔系
+  :c_rank: '161'
+  :rank: D
+  :size: S
+  :methods:
+  - さそいの扉
+  :parents:
+  - "【位】ピサロのてさき×ギズモ"
+  - "【特】ベビーサタン×魔獣系"
+- :name: がいこつ
+  :system: ゾンビ系
+  :c_rank: '162'
+  :rank: D
+  :size: S
+  :methods:
+  - きょじんの扉
+  :parents:
+  - "【位】ぼうれいけんし×ピサロのてさき"
+- :name: たつのこナイト
+  :system: ドラ系
+  :c_rank: '163'
+  :rank: D
+  :size: S
+  :methods:
+  - さいはての扉
+  - ねむりの扉
+  :parents:
+  - "【位】ダースドラゴン×スライムナイト"
+- :name: ビーンファイター
+  :system: 自然系
+  :c_rank: '164'
+  :rank: D
+  :size: S
+  :methods:
+  - さそいの扉
+  - さばきの扉
+  :parents:
+  - "【位】せみもぐら×ダースドラゴン"
+- :name: ダークホーン
+  :system: 魔獣系
+  :c_rank: '165'
+  :rank: D
+  :size: S
+  :methods:
+  - まよいの扉（ボス）
+  :parents:
+  - "【位】とらおとこ×いわとびあくま"
+  - "【特】コサックシープ×悪魔系"
+- :name: あばれこまいぬ
+  :system: 物質系
+  :c_rank: '166'
+  :rank: D
+  :size: S
+  :methods:
+  - いかりの扉
+  :parents:
+  - "【特】ワンダーフール×自然系"
+- :name: スカルサーペント
+  :system: ゾンビ系
+  :c_rank: '167'
+  :rank: D
+  :size: S
+  :methods:
+  - しれんの扉
+  - さいはての扉
+  :parents:
+  - "【位】がいこつ×デザートデーモン"
+- :name: ストーンスライム
+  :system: スラ系
+  :c_rank: '168'
+  :rank: D
+  :size: S
+  :methods:
+  - ちからの扉
+  - まぼろしの扉
+  - うらみの扉
+  :parents:
+  - "【位】スライムナイト×ぼうれいけんし"
+- :name: バピラス
+  :system: ドラ系
+  :c_rank: '169'
+  :rank: D
+  :size: S
+  :methods:
+  - いかりの扉
+  - おおぞらの扉
+  - ねむりの扉
+  :parents:
+  - "【位】たつのこナイト×がいこつ"
+- :name: ぐんたいガニ
+  :system: 自然系
+  :c_rank: '170'
+  :rank: D
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【位】ビーンファイター×たつのこナイト"
+- :name: モーザ
+  :system: 魔獣系
+  :c_rank: '171'
+  :rank: D
+  :size: M
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【位】ダークホーン×ビーンファイター"
+- :name: クラウンヘッド
+  :system: 物質系
+  :c_rank: '172'
+  :rank: D
+  :size: M
+  :methods:
+  - "-"
+  :parents:
+  - "【位】メタッピー×とらおとこ"
+- :name: メドーサボール
+  :system: 悪魔系
+  :c_rank: '173'
+  :rank: D
+  :size: G
+  :methods:
+  - いかりの扉
+  - さそいの扉
+  :parents:
+  - "【特】ウィングスネーク×ひとつめピエロ"
+- :name: スカルブレード
+  :system: ゾンビ系
+  :c_rank: '174'
+  :rank: D
+  :size: S
+  :methods:
+  - かがみの扉
+  :parents:
+  - "【位】スカルサーペント×ダークホーン"
+- :name: キングコブラ
+  :system: ドラ系
+  :c_rank: '175'
+  :rank: D
+  :size: S
+  :methods:
+  - かがみの扉
+  - ねむりの扉
+  :parents:
+  - "【位】バピラス×ストーンスライム"
+- :name: はさみくわがた
+  :system: 自然系
+  :c_rank: '176'
+  :rank: D
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】ぐんたいアリ×ミステリードール"
+- :name: リカント
+  :system: 魔獣系
+  :c_rank: '177'
+  :rank: D
+  :size: S
+  :methods:
+  - ジョーカー2から引越し
+  :parents:
+  - "【位】×"
+  - "【特】×"
+- :name: ゴーレム
+  :system: 物質系
+  :c_rank: '178'
+  :rank: D
+  :size: S
+  :methods:
+  - まもりの扉（ボス）
+  :parents:
+  - "【位】クラウンヘッド×モーザ"
+  - "【4体】どろにんぎょう×どろにんぎょう×どろにんぎょう×どろにんぎょう"
+- :name: シルバーデビル
+  :system: 悪魔系
+  :c_rank: '179'
+  :rank: D
+  :size: S
+  :methods:
+  - さそいの扉
+  - さばきの扉
+  - ふういんの扉
+  :parents:
+  - "【位】デザートデーモン×メタッピー"
+- :name: おおなめくじ
+  :system: ゾンビ系
+  :c_rank: '180'
+  :rank: D
+  :size: G
+  :methods:
+  - しれんの扉
+  - きぼうの扉
+  :parents:
+  - "【位】スカルブレード×クラウンヘッド"
+- :name: ボックススライム
+  :system: スラ系
+  :c_rank: '181'
+  :rank: D
+  :size: S
+  :methods:
+  - かがみの扉
+  :parents:
+  - "【位】ストーンスライム×スカルサーペント"
+- :name: プテラノドン
+  :system: ドラ系
+  :c_rank: '182'
+  :rank: D
+  :size: M
+  :methods:
+  - "-"
+  :parents:
+  - "【位】キングコブラ×スカルブレード"
+- :name: おおうつぼ
+  :system: 自然系
+  :c_rank: '183'
+  :rank: D
+  :size: S
+  :methods:
+  - しあわせの扉
+  :parents:
+  - "【位】ぐんたいガニ×バピラス"
+- :name: キラーエイプ
+  :system: 魔獣系
+  :c_rank: '184'
+  :rank: D
+  :size: S
+  :methods:
+  - しれんの扉
+  :parents:
+  - "【位】モーザ×ぐんたいガニ"
+- :name: ひとくいサーベル
+  :system: 物質系
+  :c_rank: '185'
+  :rank: D
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】ゴーレム×キングコブラ"
+- :name: あくましんかん
+  :system: 悪魔系
+  :c_rank: '186'
+  :rank: D
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】シルバーデビル×ゴーレム"
+- :name: あくまのめだま
+  :system: ゾンビ系
+  :c_rank: '187'
+  :rank: D
+  :size: S
+  :methods:
+  - しんじつの扉
+  - しれんの扉
+  :parents:
+  - "【位】×"
+  - "【特】×"
+- :name: ギガントヒルズ
+  :system: ドラ系
+  :c_rank: '188'
+  :rank: D
+  :size: S
+  :methods:
+  - しあわせの扉
+  - ほろびの扉
+  :parents:
+  - "【位】プテラノドン×ボックスドラゴン"
+- :name: おおさそり
+  :system: 自然系
+  :c_rank: '189'
+  :rank: D
+  :size: S
+  :methods:
+  - まよいの扉
+  :parents:
+  - "【特】はさみくわがた×ゾンビ系"
+- :name: ガマキャノン
+  :system: 魔獣系
+  :c_rank: '190'
+  :rank: D
+  :size: M
+  :methods:
+  - ちからの扉
+  :parents:
+  - "【特】じんめんガエル×ポムポムボム"
+- :name: パペットこぞう
+  :system: 物質系
+  :c_rank: '191'
+  :rank: D
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【位】ひとくいサーベル×キラーエイプ"
+  - "【特】スライム×ドルイド"
+- :name: きりさきピエロ
+  :system: 悪魔系
+  :c_rank: '192'
+  :rank: D
+  :size: S
+  :methods:
+  - ジョーカー2から引越し
+  :parents:
+  - "-"
+- :name: マネマネ
+  :system: ゾンビ系
+  :c_rank: '193'
+  :rank: D
+  :size: S
+  :methods:
+  - まぼろしの扉（ボス）
+  - タマゴから生まれる
+  :parents:
+  - "-"
+- :name: エンゼルスライム
+  :system: スラ系
+  :c_rank: '194'
+  :rank: D
+  :size: S
+  :methods:
+  - さばきの扉
+  - かがみの扉
+  - うらみの扉
+  :parents:
+  - "【位】ボックススライム×おおなめくじ"
+- :name: ガメゴン
+  :system: ドラ系
+  :c_rank: '195'
+  :rank: D
+  :size: M
+  :methods:
+  - しあわせの扉
+  - ねむりの扉
+  :parents:
+  - "【位】ギガントヒルズ×あくまのめだま"
+- :name: プチアーノン
+  :system: 自然系
+  :c_rank: '196'
+  :rank: D
+  :size: S
+  :methods:
+  - たくらみの扉
+  :parents:
+  - "【位】おおうつぼ×プテラノドン"
+- :name: おおみみず
+  :system: 自然系
+  :c_rank: '197'
+  :rank: D
+  :size: G
+  :methods:
+  - ランキングバトル5連勝
+  - タマゴから生まれる
+  :parents:
+  - "-"
+- :name: トドマン
+  :system: 魔獣系
+  :c_rank: '198'
+  :rank: D
+  :size: M
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】キラーエイプ×おおうつぼ"
+- :name: デビルアーマー
+  :system: 物質系
+  :c_rank: '199'
+  :rank: D
+  :size: S
+  :methods:
+  - たくらみの扉
+  - ちからの扉
+  - さそいの扉
+  :parents:
+  - "【位】パペットこぞう×ガマキャノン"
+  - "【特】さつじんいかり×ゾンビ系"
+- :name: リリパット
+  :system: 悪魔系
+  :c_rank: '200'
+  :rank: D
+  :size: S
+  :methods:
+  - さそいの扉
+  - さばきの扉
+  - 他国マスター
+  :parents:
+  - "【位】あくましんかん×ひとくいサーベル"
+- :name: ダーククラブ
+  :system: ゾンビ系
+  :c_rank: '201'
+  :rank: D
+  :size: S
+  :methods:
+  - よろこびの扉
+  - しあわせの扉
+  :parents:
+  - "【位】パペットこぞう×マネマネ"
+  - "【特】ぐんたいガニ×ゾンビ系"
+- :name: メタルスライム
+  :system: スラ系
+  :c_rank: '202'
+  :rank: D
+  :size: S
+  :methods:
+  - メタルエリア
+  - ちいさなメダル20枚の報酬
+  - すれちがいバトル報酬
+  :parents:
+  - "-"
+- :name: バトルレックス
+  :system: ドラ系
+  :c_rank: '203'
+  :rank: D
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【位】ガメゴン×エンゼルスライム"
+- :name: エビルアングラー
+  :system: 自然系
+  :c_rank: '204'
+  :rank: D
+  :size: S
+  :methods:
+  - たくらみの扉
+  :parents:
+  - "【位】プリアーノン×ガメゴン"
+  - "【特】ポグフィッシュ×悪魔系"
+- :name: キラーパンサー
+  :system: 魔獣系
+  :c_rank: '205'
+  :rank: D
+  :size: S
+  :methods:
+  - おもいでの扉（ボス）
+  :parents:
+  - "【4体】ベビーパンサー×ベビーパンサー×ベビーパンサー×ベビーパンサー"
+- :name: こうてつまじん
+  :system: 物質系
+  :c_rank: '206'
+  :rank: D
+  :size: M
+  :methods:
+  - れっぷうの扉
+  :parents:
+  - "【位】デビルアーマー×トドマン"
+- :name: サタンパピー
+  :system: 悪魔系
+  :c_rank: '207'
+  :rank: D
+  :size: S
+  :methods:
+  - おおぞらの扉
+  - ふういんの扉
+  :parents:
+  - "【位】リリパット×デビルアーマー"
+- :name: わかめおうじ
+  :system: ゾンビ系
+  :c_rank: '208'
+  :rank: D
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【位】ダーククラブ×リリパット"
+- :name: もりもりスライム
+  :system: スラ系
+  :c_rank: '209'
+  :rank: D
+  :size: S
+  :methods:
+  - さいはての扉
+  - タマゴから生まれる
+  :parents:
+  - "【位】エンゼルスライム×パペットこぞう"
+- :name: アイアンタートル
+  :system: ドラ系
+  :c_rank: '210'
+  :rank: D
+  :size: S
+  :methods:
+  - よろこびの扉
+  :parents:
+  - "【位】バトルレックス×ダーククラブ"
+- :name: スーパーテンツク
+  :system: 自然系
+  :c_rank: '211'
+  :rank: D
+  :size: G
+  :methods:
+  - うらみの扉
+  :parents:
+  - "【位】エビルアングラー×バトルレックス"
+- :name: タイガーランス
+  :system: 魔獣系
+  :c_rank: '212'
+  :rank: D
+  :size: S
+  :methods:
+  - おおぞらの扉
+  :parents:
+  - "【位】トドマン×プチアーノン"
+- :name: あくまの書
+  :system: 物質系
+  :c_rank: '213'
+  :rank: D
+  :size: S
+  :methods:
+  - 配合時スキルあまり3つで誕生
+  :parents:
+  - "-"
+- :name: ふくぶくろ
+  :system: 物質系
+  :c_rank: '214'
+  :rank: D
+  :size: S
+  :methods:
+  - 旅の扉内の各地
+  :parents:
+  - "-"
+- :name: スペクテット
+  :system: 悪魔系
+  :c_rank: '215'
+  :rank: D
+  :size: S
+  :methods:
+  - ランキングバトル5連勝
+  :parents:
+  - "-"
+- :name: ナイトウイプス
+  :system: ゾンビ系
+  :c_rank: '216'
+  :rank: D
+  :size: S
+  :methods:
+  - かがみの扉
+  :parents:
+  - "【位】わかめおうじ×サタンパピー"
+- :name: スラ忍イエロー
+  :system: スラ系
+  :c_rank: '217'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍レッド
+  :system: スラ系
+  :c_rank: '218'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍ブラウン
+  :system: スラ系
+  :c_rank: '219'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍グリーン
+  :system: スラ系
+  :c_rank: '220'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍パープル
+  :system: スラ系
+  :c_rank: '221'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍ブルー
+  :system: スラ系
+  :c_rank: '222'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍オレンジ
+  :system: スラ系
+  :c_rank: '223'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍ピンク
+  :system: スラ系
+  :c_rank: '224'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: スラ忍ブラック
+  :system: スラ系
+  :c_rank: '225'
+  :rank: D
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: カンダタこぶん
+  :system: "？？？系"
+  :c_rank: '226'
+  :rank: D
+  :size: S
+  :methods:
+  - すれちがいバトル
+  - 他国マスター
+  :parents:
+  - "-"
+- :name: 大魔王の左手
+  :system: "？？？系"
+  :c_rank: '227'
+  :rank: D
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】ハーゴン×デッドマスカー"
+  - "【特】ミルドラース×デッドマスカー"
+- :name: 大魔王の右手
+  :system: "？？？系"
+  :c_rank: '228'
+  :rank: D
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】オルゴ・デミーラ×デッドマスカー"
+  - "【特】りゅうおう×デッドマスカー"
+- :name: ぶちキング
+  :system: スラ系
+  :c_rank: '229'
+  :rank: C
+  :size: S
+  :methods:
+  - しあわせの扉
+  - きぼうの扉
+  :parents:
+  - "【特】もりもりスライム×もりもりベス"
+  - "【特】ぶちスライム×ぶちスライム×ぶちスライム×ぶちスライム"
+- :name: 海竜
+  :system: ドラ系
+  :c_rank: '230'
+  :rank: C
+  :size: S
+  :methods:
+  - まぼろしの扉
+  :parents:
+  - "【特】ギャオース×おおうつぼ"
+  - "【特】ギャオース×キングコブラ"
+- :name: ヘルコンドル
+  :system: 自然系
+  :c_rank: '231'
+  :rank: C
+  :size: S
+  :methods:
+  - おおぞらの扉
+  :parents:
+  - "【特】よるのていおう×自然系"
+- :name: ガーゴイル
+  :system: 魔獣系
+  :c_rank: '232'
+  :rank: C
+  :size: S
+  :methods:
+  - ほろびの扉
+  - しれんの扉
+  :parents:
+  - "【特】レッサーデーモン×物質系"
+- :name: いどまじん
+  :system: 物質系
+  :c_rank: '233'
+  :rank: C
+  :size: S
+  :methods:
+  - 旅の扉
+  :parents:
+  - "【位】こうてつまじん×エビルアンブラー"
+- :name: エビルマスター
+  :system: 悪魔系
+  :c_rank: '234'
+  :rank: C
+  :size: S
+  :methods:
+  - きょじんの扉
+  - しんじつの扉
+  :parents:
+  - "【位】サタンパピー×こうてつまじん"
+- :name: かぼちゃの騎士
+  :system: ゾンビ系
+  :c_rank: '235'
+  :rank: C
+  :size: S
+  :methods:
+  - しあわせの扉
+  :parents:
+  - "【位】ナイトウイプス×タイガーランス"
+- :name: スラッピー
+  :system: スラ系
+  :c_rank: '236'
+  :rank: C
+  :size: M
+  :methods:
+  - きょじんの扉
+  :parents:
+  - "【位】もりもりスライム×わかめおうじ"
+- :name: バルンバ
+  :system: ドラ系
+  :c_rank: '237'
+  :rank: C
+  :size: S
+  :methods:
+  - さばきの扉
+  - ねむりの扉
+  :parents:
+  - "【位】海竜×もりもりスライム"
+  - "【特】フーセンドラゴン×自然系"
+- :name: ガンコどり
+  :system: 自然系
+  :c_rank: '238'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】スーパーテンツク×アイアンタートル"
+- :name: ねこまどう
+  :system: 魔獣系
+  :c_rank: '239'
+  :rank: C
+  :size: S
+  :methods:
+  - かがみの扉
+  - うらみの扉
+  - さばきの扉
+  :parents:
+  - "【位】タイガーランス×スーパーテンツク"
+- :name: エビルワンド
+  :system: 物質系
+  :c_rank: '240'
+  :rank: C
+  :size: S
+  :methods:
+  - しれんの扉
+  - さいはての扉
+  :parents:
+  - "【位】いどまじん×ナイトウイプス"
+- :name: オーガヘッド
+  :system: 悪魔系
+  :c_rank: '241'
+  :rank: C
+  :size: M
+  :methods:
+  - ちからの扉（ボス）
+  :parents:
+  - "【位】エビルマスター×いどまじん"
+- :name: くさった死体
+  :system: ゾンビ系
+  :c_rank: '242'
+  :rank: C
+  :size: S
+  :methods:
+  - かがみの扉
+  :parents:
+  - "【位】かぼちゃの扉×エビルマスター"
+- :name: メタルライダー
+  :system: スラ系
+  :c_rank: '243'
+  :rank: C
+  :size: S
+  :methods:
+  - うらみの扉
+  - かがみの扉
+  :parents:
+  - "【位】スラッピー×かぼちゃの騎士"
+  - "【特】メタルスライム×スライムナイト"
+  - "【特】メタルスライム×エビルドライブ"
+- :name: メタルドラゴン
+  :system: ドラ系
+  :c_rank: '244'
+  :rank: C
+  :size: S
+  :methods:
+  - さそいの扉
+  - らいうんの扉
+  - れっぷうの扉
+  :parents:
+  - "【特】メタルスライム×ダースドラゴン"
+- :name: じんめんじゅ
+  :system: 自然系
+  :c_rank: '245'
+  :rank: C
+  :size: M
+  :methods:
+  - とまどいの扉（ボス）
+  :parents:
+  - "【位】ガンコどり×バルンバ"
+  - "【4体】きりかぶおばけ×きりかぶおばけ×くしざしツインズ×くしざしツインズ"
+  - "【4体】きりかぶおばけ×きりかぶおばけ×マッドプラント×マッドプラント"
+- :name: キラースコップ
+  :system: 魔獣系
+  :c_rank: '246'
+  :rank: C
+  :size: S
+  :methods:
+  - 配信
+  :parents:
+  - "-"
+- :name: プオーン
+  :system: 魔獣系
+  :c_rank: '247'
+  :rank: C
+  :size: S
+  :methods:
+  - 他国マスター
+  - タマゴから生まれる
+  :parents:
+  - "-"
+- :name: エビルポット
+  :system: 物質系
+  :c_rank: '248'
+  :rank: C
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】エビルワンド×ねこまどう"
+- :name: ヘルビースト
+  :system: 悪魔系
+  :c_rank: '249'
+  :rank: C
+  :size: S
+  :methods:
+  - チャレンジバトル5連勝
+  :parents:
+  - "-"
+- :name: さまようよろい
+  :system: ゾンビ系
+  :c_rank: '250'
+  :rank: C
+  :size: S
+  :methods:
+  - ふういんの扉
+  :parents:
+  - "【位】くさった死体×オーガヘッド"
+  - "【特】デビルアーマー×ゾンビ系"
+- :name: もりもりベス
+  :system: スラ系
+  :c_rank: '251'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【特】もりもりスライム×スライムベス"
+- :name: ドラゴンマッド
+  :system: ドラ系
+  :c_rank: '252'
+  :rank: C
+  :size: S
+  :methods:
+  - らいうんの扉
+  - れっぷうの扉
+  :parents:
+  - "【位】バルンバ×スラッピー"
+- :name: とうちゅうかそう
+  :system: 自然系
+  :c_rank: '253'
+  :rank: C
+  :size: S
+  :methods:
+  - しれんの扉
+  - たくらみの扉
+  :parents:
+  - "【位】じんめんじゅ×メタルライダー"
+- :name: ライノソルジャー
+  :system: 魔獣系
+  :c_rank: '254'
+  :rank: C
+  :size: S
+  :methods:
+  - しあわせの扉
+  :parents:
+  - "【位】ねこまどう×ガンコどり"
+- :name: くもの大王
+  :system: 物質系
+  :c_rank: '255'
+  :rank: C
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【特】フレイム×ブリザード"
+- :name: おおドラキー
+  :system: 悪魔系
+  :c_rank: '256'
+  :rank: C
+  :size: S
+  :methods:
+  - しあわせの扉
+  - さそいの扉
+  :parents:
+  - "【4体】ドラキー×ドラキー×ドラキー×ドラキー"
+- :name: キラーストーカー
+  :system: ゾンビ系
+  :c_rank: '257'
+  :rank: C
+  :size: S
+  :methods:
+  - ほむらの扉
+  :parents:
+  - "【位】さまようよろい×エビルポット"
+- :name: スライムブレス
+  :system: スラ系
+  :c_rank: '258'
+  :rank: C
+  :size: S
+  :methods:
+  - しれんの扉
+  - さいはての扉
+  :parents:
+  - "【位】メタルライダー×くさった死体"
+- :name: ソードドラゴン
+  :system: ドラ系
+  :c_rank: '259'
+  :rank: C
+  :size: M
+  :methods: []
+  :parents:
+  - "【位】ドラゴンマッド×さまようよろい"
+- :name: グランドシャーク
+  :system: 自然系
+  :c_rank: '260'
+  :rank: C
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【位】とうちゅうかそう×ドラゴンマッド"
+  - "【特】エビルアングラー×メタルカイザー"
+- :name: アイアンブルドー
+  :system: 魔獣系
+  :c_rank: '261'
+  :rank: C
+  :size: S
+  :methods:
+  - きょじんの扉
+  :parents:
+  - "【特】ダークホーン×あばれこまいぬ"
+- :name: あくまのカガミ
+  :system: 物質系
+  :c_rank: '262'
+  :rank: C
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】エビルポット×じんめんじゅ"
+- :name: メタルハンター
+  :system: 物質系
+  :c_rank: '263'
+  :rank: C
+  :size: S
+  :methods:
+  - メタルエリア
+  :parents:
+  - "-"
+- :name: オクトセントリー
+  :system: 悪魔系
+  :c_rank: '264'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】オーガヘッド×エビルワンド"
+- :name: ケルベロス
+  :system: ゾンビ系
+  :c_rank: '265'
+  :rank: C
+  :size: S
+  :methods:
+  - だいちの扉
+  :parents:
+  - "【位】キラーストーカー×ライノソルジャー"
+- :name: キングスライム
+  :system: スラ系
+  :c_rank: '266'
+  :rank: C
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【特】もりもりスライム×もりもりスライム"
+- :name: デンタザウルス
+  :system: ドラ系
+  :c_rank: '267'
+  :rank: C
+  :size: S
+  :methods:
+  - さばきの扉
+  - ねむりの扉
+  :parents:
+  - "【位】ソードドラゴン×スライムブレス"
+  - "【特】ギガントヒルズ×物質系"
+  - "【特】バピラス×物質系"
+- :name: とつげきうお
+  :system: 自然系
+  :c_rank: '268'
+  :rank: C
+  :size: S
+  :methods:
+  - たくらみの扉
+  :parents:
+  - "【位】グランドシャーク×ソードドラゴン"
+  - "【特】エビルアングラー×スラ系"
+- :name: マーマン
+  :system: 魔獣系
+  :c_rank: '269'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】ライノソルジャー×とうちゅうかそう"
+- :name: ギガハンド
+  :system: 物質系
+  :c_rank: '270'
+  :rank: C
+  :size: G
+  :methods:
+  - おおぞらの扉
+  :parents:
+  - "【位】あくまのカガミ×グランドシャーク"
+  - "【4体】マドハンド×マドハンド×マドハンド×マドハンド"
+- :name: サイレス
+  :system: 悪魔系
+  :c_rank: '271'
+  :rank: C
+  :size: S
+  :methods:
+  - ほろびの扉
+  :parents:
+  - "【位】オクトセントリー×あくまのカガミ"
+- :name: しにがみ
+  :system: ゾンビ系
+  :c_rank: '272'
+  :rank: C
+  :size: S
+  :methods:
+  - れっぷうの扉
+  :parents:
+  - "【位】ケルベロス×オクトセントリー"
+- :name: スライムタワー
+  :system: スラ系
+  :c_rank: '273'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】スライムブレス×キラーストーカー"
+- :name: ライバーン
+  :system: ドラ系
+  :c_rank: '274'
+  :rank: C
+  :size: M
+  :methods:
+  - さいはての扉
+  - ねむりの扉
+  :parents:
+  - "【位】デンタザウルス×ケルベロス"
+- :name: かりゅうそう
+  :system: 自然系
+  :c_rank: '275'
+  :rank: C
+  :size: S
+  :methods:
+  - かがみの扉
+  :parents:
+  - "【位】とつげきうお×デンタザウルス"
+- :name: かくとうパンサー
+  :system: 魔獣系
+  :c_rank: '276'
+  :rank: C
+  :size: S
+  :methods:
+  - さいはての扉
+  :parents:
+  - "【位】マーマン×とつげきうお"
+- :name: メガボーグ
+  :system: 物質系
+  :c_rank: '277'
+  :rank: C
+  :size: S
+  :methods:
+  - とこやみの扉
+  :parents:
+  - "【位】ギガハンド×マーマン"
+- :name: 魔教師エルシオン
+  :system: 悪魔系
+  :c_rank: '278'
+  :rank: C
+  :size: M
+  :methods:
+  - "-"
+  :parents:
+  - "【位】サイレス×ギガハンド"
+- :name: じごくのもんばん
+  :system: 悪魔系
+  :c_rank: '279'
+  :rank: C
+  :size: S
+  :methods:
+  - しんじつの扉
+  - しれんの扉
+  :parents:
+  - "【特】ヘルビースト×きりさきピエロ"
+  - "【特】ヘルビースト×オクトセントリー"
+  - "【特】ヘルビースト×ひとくいサーベル"
+  - "【特】ヘルビースト×サイレス"
+- :name: ドラゴンへビー
+  :system: ドラ系
+  :c_rank: '280'
+  :rank: C
+  :size: G
+  :methods:
+  - ほむらの扉
+  :parents:
+  - "【位】ライバーン×スライムタワー"
+- :name: エビラ
+  :system: 自然系
+  :c_rank: '281'
+  :rank: C
+  :size: S
+  :methods:
+  - たくらみの扉
+  :parents:
+  - "【位】かりゅうそう×ライバーン"
+  - "【特】ぐんたいガニ×ぐんたいガニ"
+- :name: イノブタマン
+  :system: 魔獣系
+  :c_rank: '282'
+  :rank: C
+  :size: M
+  :methods:
+  - ジョーカー2から引越し
+  :parents:
+  - "-"
+- :name: コハクそう
+  :system: 物質系
+  :c_rank: '283'
+  :rank: C
+  :size: M
+  :methods:
+  - たくらみの扉
+  :parents:
+  - "【位】メガボーグ×かくとうパンサー"
+- :name: コトブキーノ
+  :system: 悪魔系
+  :c_rank: '284'
+  :rank: C
+  :size: S
+  :methods:
+  - れっぷうの扉
+  - かがみの扉
+  :parents:
+  - "【位】魔教師エルシオン×メガボーグ"
+- :name: ウインドマージ
+  :system: ゾンビ系
+  :c_rank: '285'
+  :rank: C
+  :size: S
+  :methods:
+  - しれんの扉
+  :parents:
+  - "【位】しにがみ×サイレス"
+- :name: ベホマスライム
+  :system: スラ系
+  :c_rank: '286'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】スライムタワー×しにがみ"
+  - "【特】ホイミスライム×もりもりベス"
+- :name: れんごく天馬
+  :system: ドラ系
+  :c_rank: '287'
+  :rank: C
+  :size: S
+  :methods:
+  - かがみの扉
+  - さいはての扉
+  - ねむりの扉
+  :parents:
+  - "【特】タイガーランス×フレイム"
+- :name: ダックカイト
+  :system: 自然系
+  :c_rank: '288'
+  :rank: C
+  :size: S
+  :methods:
+  - ほろびの扉
+  - さそいの扉
+  :parents:
+  - "【位】エビル×ドラゴンへビー"
+- :name: デスフラッター
+  :system: 自然系
+  :c_rank: '289'
+  :rank: C
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "【特】おおがらす×やたがらす"
+- :name: サイコロン
+  :system: 魔獣系
+  :c_rank: '290'
+  :rank: C
+  :size: S
+  :methods:
+  - 他国マスター
+  :parents:
+  - "【4体】おおめだま×おおめだま×おおめだま×おおめだま"
+- :name: ひょうがまじん
+  :system: 物質系
+  :c_rank: '291'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【位】コハクそう×エビラ"
+  - "【特】ホークブリザード×ゴーレム"
+- :name: ジェネラルダンテ
+  :system: 悪魔系
+  :c_rank: '292'
+  :rank: C
+  :size: S
+  :methods:
+  - さいはての扉
+  - ふういんの扉
+  :parents:
+  - "【位】コトブキーノ×コハクそう"
+- :name: ダンスキャロット
+  :system: ゾンビ系
+  :c_rank: '293'
+  :rank: C
+  :size: S
+  :methods:
+  - さばきの扉
+  :parents:
+  - "【位】ウインドマージ×コドブキーノ"
+- :name: スライムボーグ
+  :system: スラ系
+  :c_rank: '294'
+  :rank: C
+  :size: S
+  :methods:
+  - うらみの扉
+  :parents:
+  - "【位】ベホマスライム×ウインドマージ"
+  - "【特】メタルハンター×スラ系"
+- :name: シュプリンガー
+  :system: ドラ系
+  :c_rank: '295'
+  :rank: C
+  :size: S
+  :methods:
+  - さそいの扉
+  :parents:
+  - "【位】れんごく天馬×ベホマスライム"
+  - "【特】ぼうれいけんし×ダースドラゴン"
+- :name: ファンキーバード
+  :system: 自然系
+  :c_rank: '296'
+  :rank: C
+  :size: S
+  :methods:
+  - よろこびの扉（ボス）
+  :parents:
+  - "【位】ダックカイト×ベホマスライム"
+- :name: ダンビラムーチョ
+  :system: 魔獣系
+  :c_rank: '297'
+  :rank: C
+  :size: S
+  :methods:
+  - うらみの扉
+  :parents:
+  - "【位】かくとうパンサー×かりゅうそう"
+- :name: ようがんまじん
+  :system: 物質系
+  :c_rank: '298'
+  :rank: C
+  :size: S
+  :methods:
+  - しあわせの扉
+  - さそいの扉
+  :parents:
+  - "【位】ひょうがまじん×サイコロン"
+  - "【特】ひくいどり×ゴーレム"
+- :name: なぞのしんかん
+  :system: 悪魔系
+  :c_rank: '299'
+  :rank: C
+  :size: S
+  :methods:
+  - "-"
+  :parents:
+  - "【特】あくましんかん×パペットこぞう"
+- :name: ソードファントム
+  :system: ゾンビ系
+  :c_rank: '300'
+  :rank: C
+  :size: S
+  :methods:
+  - ぜっかいの扉
+  - ほむらの扉
+  :parents:
+  - "【4体】ぼうれいけんし×ぼうれいけんし×ぼうれいけんし×ぼうれいけんし"
+- :name: ティコ
+  :system: "？？？系"
+  :c_rank: '301'
+  :rank: C
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "-"
+- :name: ククリ
+  :system: "？？？系"
+  :c_rank: '302'
+  :rank: C
+  :size: S
+  :methods:
+  - タマゴから生まれる
+  :parents:
+  - "-"
